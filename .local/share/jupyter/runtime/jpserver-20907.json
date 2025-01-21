@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 20907,
+  "port": 8888,
+  "root_dir": "/home/iujeong",
+  "secure": false,
+  "sock": "",
+  "token": "56453aca5f4dfc7603013932d38728b73ebbdf3491ebf8f3",
+  "url": "http://localhost:8888/",
+  "version": "2.14.1"
+}

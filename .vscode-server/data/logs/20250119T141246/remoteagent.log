@@ -1,0 +1,10 @@
+2025-01-19 14:12:46.687 [info] 
+
+
+
+
+2025-01-19 14:12:46.691 [info] Extension host agent started.
+2025-01-19 14:12:46.749 [info] [<unknown>][9411d168][ManagementConnection] New connection established.
+2025-01-19 14:12:46.765 [info] [<unknown>][9524529b][ExtensionHostConnection] New connection established.
+2025-01-19 14:12:47.291 [info] [<unknown>][9524529b][ExtensionHostConnection] <294573> Launched Extension Host Process.
+2025-01-19 14:17:46.692 [info] New EH opened, aborting shutdown

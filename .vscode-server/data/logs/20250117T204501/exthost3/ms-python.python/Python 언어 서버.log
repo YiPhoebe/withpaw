@@ -1,0 +1,19 @@
+2025-01-17 21:08:54.632 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.2)
+2025-01-17 21:08:54.831 [info] [Info  - 오후 9:08:54] (14304) Server root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-17 21:08:54.831 [info] [Info  - 오후 9:08:54] (14304) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2025-01-17 21:08:54.834 [info] [Info  - 오후 9:08:54] (14304) Starting service instance "iujeong"
+2025-01-17 21:08:54.856 [info] [Info  - 오후 9:08:54] (14304) Setting environmentName for service "iujeong": "3.12.3 (글로벌)"
+2025-01-17 21:08:54.856 [info] [Info  - 오후 9:08:54] (14304) Setting pythonPath for service "iujeong": "/usr/bin/python3"
+2025-01-17 21:08:54.856 [info] [Info  - 오후 9:08:54] (14304) No include entries specified; assuming /home/iujeong
+2025-01-17 21:08:54.856 [info] [Info  - 오후 9:08:54] (14304) Auto-excluding **/node_modules
+2025-01-17 21:08:54.856 [info] [Info  - 오후 9:08:54] (14304) Auto-excluding **/__pycache__
+2025-01-17 21:08:54.856 [info] [Info  - 오후 9:08:54] (14304) Auto-excluding **/.*
+2025-01-17 21:08:54.872 [info] [Info  - 오후 9:08:54] (14304) Assuming Python version 3.12.3.final.0
+2025-01-17 21:08:54.905 [info] [Info  - 오후 9:08:54] (14304) No source files found.
+2025-01-17 21:08:55.153 [info] [Info  - 오후 9:08:55] (14304) Background analysis(1) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-17 21:08:55.153 [info] [Info  - 오후 9:08:55] (14304) Background analysis(1) started
+2025-01-17 21:08:55.153 [info] [Info  - 오후 9:08:55] (14304) Indexer background runner(2) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-17 21:08:55.153 [info] [Info  - 오후 9:08:55] (14304) Indexing(2) started
+2025-01-17 21:08:55.268 [info] [Info  - 오후 9:08:55] (14304) scanned(2) 97 files over 1 exec env
+2025-01-17 21:08:55.817 [info] [Info  - 오후 9:08:55] (14304) indexed(2) 97 files over 1 exec env
+2025-01-17 21:08:55.834 [info] [Info  - 오후 9:08:55] (14304) Indexing finished(2).

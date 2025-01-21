@@ -1,0 +1,5 @@
+{"displayName":"Extension Authoring","description":"Provides linting capabilities for authoring extensions."}
+
+"powermode.enabled": true,
+"powermode.presets": "magic",
+"powermode.enableShake": false,

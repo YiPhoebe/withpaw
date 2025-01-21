@@ -1,0 +1,8 @@
+{
+    "files.exclude": {
+        "**/.cache": true,      // 예: node_modules 폴더 숨기기
+        "**/.conda": true,              // 예: .git 폴더 숨기기
+        "**/.dotnet": true,              // '채스' 폴더 숨기기
+        "**/.ipython": true               // '서버' 폴더 숨기기
+    }
+}

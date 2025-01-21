@@ -1,0 +1,47 @@
+2025-01-20 09:14:44.655 [info] 실험 'pythonRecommendTensorboardExt'이(가) 활성 상태입니다.
+2025-01-20 09:14:44.655 [info] 실험 'pythonTerminalEnvVarActivation'이(가) 활성 상태입니다.
+2025-01-20 09:14:44.655 [info] 실험 'pythonTestAdapter'이(가) 활성 상태입니다.
+2025-01-20 09:14:44.655 [info] Native locator: Refresh started
+2025-01-20 09:14:44.655 [info] Native locator: Refresh started
+2025-01-20 09:14:44.670 [info] Conda environment manager found at: /opt/anaconda3/bin/conda
+2025-01-20 09:14:44.682 [info] > pyenv which python
+2025-01-20 09:14:44.682 [info] cwd: .
+2025-01-20 09:14:44.744 [info] > /opt/anaconda3/bin/conda info --json
+2025-01-20 09:14:44.951 [info] Native locator: Refresh finished in 751 ms
+2025-01-20 09:14:44.956 [info] Python 인터프리터 경로: /bin/python3
+2025-01-20 09:14:55.482 [info] Pylance 언어 서버를 시작하는 중입니다.
+2025-01-20 10:01:39.179 [info] Native locator: Refresh started
+2025-01-20 10:01:39.191 [info] Conda environment manager found at: /opt/anaconda3/bin/conda
+2025-01-20 10:01:39.286 [info] Native locator: Refresh finished in 107 ms
+2025-01-20 10:01:42.490 [info] > /opt/anaconda3/bin/conda run -n bogdong --no-capture-output python ./.vscode-server/extensions/ms-python.python-2024.22.2/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.22.2/python_files/printEnvVariables.py
+2025-01-20 10:01:42.490 [info] shell: bash
+2025-01-20 10:01:42.500 [info] > /opt/anaconda3/bin/conda run -n bogdong --no-capture-output python ./.vscode-server/extensions/ms-python.python-2024.22.2/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.22.2/python_files/printEnvVariables.py
+2025-01-20 10:01:42.500 [info] shell: bash
+2025-01-20 10:05:53.472 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/my_package/__init__.py
+2025-01-20 10:05:53.847 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/my_package/__init__.py
+2025-01-20 10:30:37.842 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/my_package/module2.py
+2025-01-20 10:34:12.902 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/main.py
+2025-01-20 10:34:14.918 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/main.py
+2025-01-20 10:35:09.436 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/main.py
+2025-01-20 10:35:10.037 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/main.py
+2025-01-20 10:35:12.486 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/main.py
+2025-01-20 10:36:47.982 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/my_package/module1.py
+2025-01-20 10:36:48.307 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/my_package/module1.py
+2025-01-20 10:36:48.780 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/my_package/module1.py
+2025-01-20 10:36:51.408 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/my_package/module2.py
+2025-01-20 10:36:54.896 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/my_package/module1.py
+2025-01-20 10:36:56.486 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/my_package/module1.py
+2025-01-20 10:37:01.224 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/my_package/module1.py
+2025-01-20 10:37:01.830 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/my_package/module1.py
+2025-01-20 10:37:02.499 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/my_package/module1.py
+2025-01-20 10:37:03.579 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/main.py
+2025-01-20 10:40:30.960 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/my_package/__init__.py
+2025-01-20 10:40:35.759 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/main.py
+2025-01-20 10:41:27.755 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/main.py
+2025-01-20 10:41:28.031 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/main.py
+2025-01-20 10:41:36.134 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/main.py
+2025-01-20 10:42:14.808 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/main.py
+2025-01-20 10:42:38.762 [info] > /opt/anaconda3/bin/conda run -n bogdong --no-capture-output python ./.vscode-server/extensions/ms-python.python-2024.22.2/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.22.2/python_files/printEnvVariables.py
+2025-01-20 10:42:38.762 [info] shell: bash
+2025-01-20 10:42:38.762 [info] > /opt/anaconda3/bin/conda run -n bogdong --no-capture-output python ./.vscode-server/extensions/ms-python.python-2024.22.2/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.22.2/python_files/printEnvVariables.py
+2025-01-20 10:42:38.762 [info] shell: bash

@@ -1,0 +1,51 @@
+2025-01-17 20:47:20.495 [info] l10n: Problems loading vscode-local:/Users/iujeong/.vscode/extensions/ms-ceintl.vscode-language-pack-ko-1.96.2024121109/translations/extensions/vscode.json-language-features.i18n.json : Error: Unsupported protocol
+2025-01-17 20:47:20.507 [info] read schema from vscode: vscode://schemas/settings/user
+2025-01-17 20:47:20.507 [info] cancelled
+2025-01-17 20:47:20.601 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2025-01-17 20:47:20.605 [info] read schema from vscode: vscode://schemas/launch
+2025-01-17 20:47:20.606 [info] read schema from vscode: vscode://schemas/token-styling
+2025-01-17 20:47:20.606 [info] read schema from vscode: vscode://schemas/textmate-colors
+2025-01-17 20:47:20.606 [info] read schema from vscode: vscode://schemas/workbench-colors
+2025-01-17 20:47:20.607 [info] read schema from vscode: vscode://schemas/ignoredSettings
+2025-01-17 20:47:21.462 [info] schema change detected vscode://schemas/settings/resourceLanguage
+2025-01-17 20:47:21.463 [info] schema change detected vscode://schemas/ignoredSettings
+2025-01-17 20:47:21.468 [info] read schema from vscode: vscode://schemas/settings/user
+2025-01-17 20:47:21.549 [info] schema change detected vscode://schemas/settings/user
+2025-01-17 20:47:21.565 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2025-01-17 20:47:21.568 [info] read schema from vscode: vscode://schemas/ignoredSettings
+2025-01-17 20:47:21.632 [info] cancelled
+2025-01-17 20:47:21.632 [info] read schema from vscode: vscode://schemas/settings/user
+2025-01-17 20:47:25.499 [info] schema change detected vscode://schemas/launch
+2025-01-17 20:47:25.500 [info] read schema from vscode: vscode://schemas/settings/user
+2025-01-17 20:47:25.580 [info] read schema from vscode: vscode://schemas/launch
+2025-01-17 20:58:48.979 [info] schema change detected vscode://schemas/settings/user
+2025-01-17 20:58:48.980 [info] read schema from vscode: vscode://schemas/settings/user
+2025-01-17 20:58:50.364 [info] schema change detected vscode://schemas/settings/user
+2025-01-17 20:58:50.365 [info] read schema from vscode: vscode://schemas/settings/user
+2025-01-17 20:58:53.056 [info] schema change detected vscode://schemas/settings/user
+2025-01-17 20:59:50.865 [info] schema change detected vscode://schemas/settings/user
+2025-01-17 21:00:42.120 [info] schema change detected vscode://schemas/ignoredSettings
+2025-01-17 21:00:42.120 [info] schema change detected vscode://schemas/launch
+2025-01-17 21:00:42.120 [info] schema change detected vscode://schemas/launch
+2025-01-17 21:00:42.154 [info] schema change detected vscode://schemas/settings/user
+2025-01-17 21:00:43.524 [info] schema change detected vscode://schemas/settings/user
+2025-01-17 21:00:59.559 [info] schema change detected vscode://schemas/ignoredSettings
+2025-01-17 21:00:59.559 [info] schema change detected vscode://schemas/launch
+2025-01-17 21:00:59.559 [info] schema change detected vscode://schemas/launch
+2025-01-17 21:00:59.632 [info] schema change detected vscode://schemas/ignoredSettings
+2025-01-17 21:00:59.641 [info] schema change detected vscode://schemas/settings/user
+2025-01-17 21:00:59.821 [info] schema change detected vscode://schemas/ignoredSettings
+2025-01-17 21:00:59.830 [info] schema change detected vscode://schemas/settings/user
+2025-01-17 21:01:01.679 [info] schema change detected vscode://schemas/settings/user
+2025-01-17 21:01:05.819 [info] schema change detected vscode://schemas/ignoredSettings
+2025-01-17 21:01:05.856 [info] schema change detected vscode://schemas/settings/user
+2025-01-17 21:01:09.237 [info] schema change detected vscode://schemas/ignoredSettings
+2025-01-17 21:01:09.237 [info] schema change detected vscode://schemas/launch
+2025-01-17 21:01:09.237 [info] schema change detected vscode://schemas/launch
+2025-01-17 21:01:09.276 [info] schema change detected vscode://schemas/settings/user
+2025-01-17 21:01:09.886 [info] schema change detected vscode://schemas/ignoredSettings
+2025-01-17 21:01:09.886 [info] schema change detected vscode://schemas/launch
+2025-01-17 21:01:09.887 [info] schema change detected vscode://schemas/launch
+2025-01-17 21:01:09.932 [info] schema change detected vscode://schemas/settings/user
+2025-01-17 21:06:29.624 [info] schema change detected vscode://schemas/ignoredSettings
+2025-01-17 21:06:29.648 [info] schema change detected vscode://schemas/settings/user

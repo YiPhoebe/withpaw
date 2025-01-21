@@ -1,0 +1,94 @@
+2025-01-20 09:14:45.174 [info] [Info  - 오전 9:14:45] (117910) Server root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-20 09:14:45.174 [info] [Info  - 오전 9:14:45] (117910) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2025-01-20 09:14:45.176 [info] [Info  - 오전 9:14:45] (117910) Starting service instance "iujeong"
+2025-01-20 09:14:45.195 [info] [Info  - 오전 9:14:45] (117910) Setting environmentName for service "iujeong": "3.12.3 (글로벌)"
+2025-01-20 09:14:45.195 [info] [Info  - 오전 9:14:45] (117910) Setting pythonPath for service "iujeong": "/bin/python3"
+2025-01-20 09:14:45.195 [info] [Info  - 오전 9:14:45] (117910) No include entries specified; assuming /home/iujeong
+2025-01-20 09:14:45.195 [info] [Info  - 오전 9:14:45] (117910) Auto-excluding **/node_modules
+2025-01-20 09:14:45.195 [info] [Info  - 오전 9:14:45] (117910) Auto-excluding **/__pycache__
+2025-01-20 09:14:45.195 [info] [Info  - 오전 9:14:45] (117910) Auto-excluding **/.*
+2025-01-20 09:14:45.212 [info] [Info  - 오전 9:14:45] (117910) Assuming Python version 3.12.3.final.0
+2025-01-20 09:14:45.246 [info] [Info  - 오전 9:14:45] (117910) Found 5 source files
+2025-01-20 09:14:45.395 [info] [Info  - 오전 9:14:45] (117910) Background analysis(1) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-20 09:14:45.396 [info] [Info  - 오전 9:14:45] (117910) Background analysis(1) started
+2025-01-20 09:14:45.442 [info] [Info  - 오전 9:14:45] (117910) Indexer background runner(2) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-20 09:14:45.442 [info] [Info  - 오전 9:14:45] (117910) Indexing(2) started
+2025-01-20 09:14:45.587 [info] [Info  - 오전 9:14:45] (117910) scanned(2) 97 files over 1 exec env
+2025-01-20 09:14:45.678 [info] [Info  - 오전 9:14:45] (117910) indexed(2) 97 files over 1 exec env
+2025-01-20 09:14:45.694 [info] [Info  - 오전 9:14:45] (117910) Indexing finished(2).
+2025-01-20 09:14:55.481 [info] (Client) The existing extension didn't exit within 10 seconds. New instance will start, but you might encounter issues.
+2025-01-20 09:14:55.481 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.2)
+2025-01-20 10:01:29.532 [info] [Info  - 오전 10:01:29] (117910) Found 6 source files
+2025-01-20 10:01:39.622 [info] [Info  - 오전 10:01:39] (117910) Found 5 source files
+2025-01-20 10:01:43.311 [info] [Info  - 오전 10:01:43] (117910) Starting service instance "iujeong"
+2025-01-20 10:01:43.340 [info] [Info  - 오전 10:01:43] (117910) Setting environmentName for service "iujeong": "3.12.3 (글로벌)"
+2025-01-20 10:01:43.340 [info] [Info  - 오전 10:01:43] (117910) Setting pythonPath for service "iujeong": "/opt/anaconda3/envs/bogdong/bin/python"
+2025-01-20 10:01:43.340 [info] [Info  - 오전 10:01:43] (117910) No include entries specified; assuming /home/iujeong
+2025-01-20 10:01:43.340 [info] [Info  - 오전 10:01:43] (117910) Auto-excluding **/node_modules
+2025-01-20 10:01:43.340 [info] [Info  - 오전 10:01:43] (117910) Auto-excluding **/__pycache__
+2025-01-20 10:01:43.340 [info] [Info  - 오전 10:01:43] (117910) Auto-excluding **/.*
+2025-01-20 10:01:43.354 [info] [Info  - 오전 10:01:43] (117910) Assuming Python version 3.12.8.final.0
+2025-01-20 10:01:43.386 [info] [Info  - 오전 10:01:43] (117910) Found 5 source files
+2025-01-20 10:01:43.580 [info] [Info  - 오전 10:01:43] (117910) Background analysis(3) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-20 10:01:43.581 [info] [Info  - 오전 10:01:43] (117910) Background analysis(3) started
+2025-01-20 10:01:43.581 [info] [Info  - 오전 10:01:43] (117910) Indexer background runner(4) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-20 10:01:43.581 [info] [Info  - 오전 10:01:43] (117910) Indexing(4) started
+2025-01-20 10:01:43.797 [info] [Info  - 오전 10:01:43] (117910) scanned(4) 208 files over 1 exec env
+2025-01-20 10:01:43.902 [info] [Info  - 오전 10:01:43] (117910) indexed(4) 208 files over 1 exec env
+2025-01-20 10:01:43.926 [info] [Info  - 오전 10:01:43] (117910) Indexing finished(4).
+2025-01-20 10:02:25.307 [info] [Info  - 오전 10:02:25] (117910) Starting service instance "<default>"
+2025-01-20 10:02:25.335 [info] [Info  - 오전 10:02:25] (117910) Setting environmentName for service "<default>": "3.12.3 (글로벌)"
+2025-01-20 10:02:25.335 [info] [Info  - 오전 10:02:25] (117910) Setting pythonPath for service "<default>": "/bin/python3"
+2025-01-20 10:02:25.335 [info] [Info  - 오전 10:02:25] (117910) No include entries specified; assuming /<default workspace root>
+2025-01-20 10:02:25.335 [info] [Info  - 오전 10:02:25] (117910) Auto-excluding **/node_modules
+2025-01-20 10:02:25.335 [info] [Info  - 오전 10:02:25] (117910) Auto-excluding **/__pycache__
+2025-01-20 10:02:25.335 [info] [Info  - 오전 10:02:25] (117910) Auto-excluding **/.*
+2025-01-20 10:02:25.348 [info] [Info  - 오전 10:02:25] (117910) Assuming Python version 3.12.3.final.0
+2025-01-20 10:02:25.372 [info] [Error - 오전 10:02:25] (117910) File or directory "/<default workspace root>" does not exist.
+2025-01-20 10:02:25.372 [info] [Info  - 오전 10:02:25] (117910) No source files found.
+2025-01-20 10:02:25.528 [info] [Info  - 오전 10:02:25] (117910) Background analysis(5) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-20 10:02:25.529 [info] [Info  - 오전 10:02:25] (117910) Background analysis(5) started
+2025-01-20 10:03:24.151 [info] [Info  - 오전 10:03:24] (117910) Starting service instance "iujeong"
+2025-01-20 10:03:24.177 [info] [Info  - 오전 10:03:24] (117910) Setting environmentName for service "iujeong": "3.12.3 (글로벌)"
+2025-01-20 10:03:24.177 [info] [Info  - 오전 10:03:24] (117910) Setting pythonPath for service "iujeong": "/home/iujeong"
+2025-01-20 10:03:24.177 [info] [Info  - 오전 10:03:24] (117910) No include entries specified; assuming /home/iujeong
+2025-01-20 10:03:24.177 [info] [Info  - 오전 10:03:24] (117910) Auto-excluding **/node_modules
+2025-01-20 10:03:24.177 [info] [Info  - 오전 10:03:24] (117910) Auto-excluding **/__pycache__
+2025-01-20 10:03:24.177 [info] [Info  - 오전 10:03:24] (117910) Auto-excluding **/.*
+2025-01-20 10:03:24.222 [info] [Info  - 오전 10:03:24] (117910) Found 5 source files
+2025-01-20 10:03:24.402 [info] [Info  - 오전 10:03:24] (117910) Background analysis(6) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-20 10:03:24.402 [info] [Info  - 오전 10:03:24] (117910) Background analysis(6) started
+2025-01-20 10:03:24.428 [info] [Info  - 오전 10:03:24] (117910) Indexer background runner(7) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-20 10:03:24.428 [info] [Info  - 오전 10:03:24] (117910) Indexing(7) started
+2025-01-20 10:03:24.548 [info] [Info  - 오전 10:03:24] (117910) scanned(7) 1 files over 1 exec env
+2025-01-20 10:03:24.560 [info] [Info  - 오전 10:03:24] (117910) Found 7 source files
+2025-01-20 10:03:24.563 [info] [Info  - 오전 10:03:24] (117910) Found 7 source files
+2025-01-20 10:03:24.687 [info] [Info  - 오전 10:03:24] (117910) indexed(7) 1 files over 1 exec env
+2025-01-20 10:03:24.698 [info] [Info  - 오전 10:03:24] (117910) Indexing finished(7).
+2025-01-20 10:04:56.598 [info] [Info  - 오전 10:04:56] (117910) Starting service instance "iujeong"
+2025-01-20 10:04:56.620 [info] [Info  - 오전 10:04:56] (117910) Setting environmentName for service "iujeong": "3.12.3 (글로벌)"
+2025-01-20 10:04:56.620 [info] [Info  - 오전 10:04:56] (117910) Setting pythonPath for service "iujeong": "/home/iujeong"
+2025-01-20 10:04:56.620 [info] [Info  - 오전 10:04:56] (117910) No include entries specified; assuming /home/iujeong
+2025-01-20 10:04:56.621 [info] [Info  - 오전 10:04:56] (117910) Auto-excluding **/node_modules
+2025-01-20 10:04:56.621 [info] [Info  - 오전 10:04:56] (117910) Auto-excluding **/__pycache__
+2025-01-20 10:04:56.621 [info] [Info  - 오전 10:04:56] (117910) Auto-excluding **/.*
+2025-01-20 10:04:56.641 [info] [Info  - 오전 10:04:56] (117910) Found 6 source files
+2025-01-20 10:04:56.786 [info] [Info  - 오전 10:04:56] (117910) Background analysis(8) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-20 10:04:56.787 [info] [Info  - 오전 10:04:56] (117910) Background analysis(8) started
+2025-01-20 10:04:56.830 [info] [Info  - 오전 10:04:56] (117910) Indexer background runner(9) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-20 10:04:56.830 [info] [Info  - 오전 10:04:56] (117910) Indexing(9) started
+2025-01-20 10:04:56.940 [info] [Info  - 오전 10:04:56] (117910) scanned(9) 1 files over 1 exec env
+2025-01-20 10:04:57.044 [info] [Info  - 오전 10:04:57] (117910) indexed(9) 1 files over 1 exec env
+2025-01-20 10:04:57.049 [info] [Info  - 오전 10:04:57] (117910) Indexing finished(9).
+2025-01-20 10:04:57.086 [info] [Info  - 오전 10:04:57] (117910) Found 8 source files
+2025-01-20 10:04:57.088 [info] [Info  - 오전 10:04:57] (117910) Found 8 source files
+2025-01-20 10:04:57.304 [info] [Info  - 오전 10:04:57] (117910) Found 6 source files
+2025-01-20 10:05:03.009 [info] [Info  - 오전 10:05:03] (117910) Found 7 source files
+2025-01-20 10:05:03.012 [info] [Info  - 오전 10:05:03] (117910) Found 9 source files
+2025-01-20 10:05:03.014 [info] [Info  - 오전 10:05:03] (117910) Found 9 source files
+2025-01-20 10:05:06.729 [info] [Info  - 오전 10:05:06] (117910) Found 8 source files
+2025-01-20 10:05:06.732 [info] [Info  - 오전 10:05:06] (117910) Found 10 source files
+2025-01-20 10:05:06.735 [info] [Info  - 오전 10:05:06] (117910) Found 10 source files
+2025-01-20 10:32:00.285 [info] [Info  - 오전 10:32:00] (117910) Found 11 source files
+2025-01-20 10:32:00.287 [info] [Info  - 오전 10:32:00] (117910) Found 11 source files
+2025-01-20 10:32:00.421 [info] [Info  - 오전 10:32:00] (117910) Found 9 source files

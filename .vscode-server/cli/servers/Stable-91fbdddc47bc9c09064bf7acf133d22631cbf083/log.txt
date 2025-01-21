@@ -1,0 +1,32 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-457e6ca7-cc7b-40fe-a21e-9647bcf8af58
+Extension host agent listening on /tmp/code-457e6ca7-cc7b-40fe-a21e-9647bcf8af58
+
+[18:07:42] 
+
+
+
+
+[18:07:42] Extension host agent started.
+[18:07:42] [<unknown>][0dcd7765][ExtensionHostConnection] New connection established.
+[18:07:42] [<unknown>][c5e2c840][ManagementConnection] New connection established.
+Generating translation files failed. Error: ENOENT: no such file or directory, open '/home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/server/out/nls.keys.json'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1242:14)
+    at async Uv (file:///home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/server/out/server-main.js:3:16834)
+    at async F8 (file:///home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/server/out/server-main.js:74:38650)
+    at async Zh.start (file:///home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/server/out/server-main.js:74:41816) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/server/out/nls.keys.json'
+}
+[18:07:43] [<unknown>][0dcd7765][ExtensionHostConnection] <3092> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[18:12:42] New EH opened, aborting shutdown
