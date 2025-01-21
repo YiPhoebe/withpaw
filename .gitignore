@@ -1,0 +1,27 @@
+# 시스템 및 환경 설정 파일
+.bash_history
+.bash_logout
+.profile
+.sqlite_history
+.wget-hsts
+.ipynb_checkpoints
+.ipython
+.jupyter
+.dotnet
+.nv
+
+# IDE 및 에디터 관련 파일
+.vscode-server
+.cache
+.conda
+.local
+
+# 데이터베이스 및 통계 관련 파일
+withpaw.db
+*.png
+
+# 기타 불필요한 파일들
+*.pyc
+
+# Git 폴더 (로컬 저장소)
+.git/
