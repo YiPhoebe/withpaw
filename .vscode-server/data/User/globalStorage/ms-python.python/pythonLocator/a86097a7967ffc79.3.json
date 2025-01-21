@@ -1,0 +1,15 @@
+{
+  "environment": {
+    "executable": "/opt/anaconda3/envs/bogdong/bin/python",
+    "prefix": "/opt/anaconda3/envs/bogdong",
+    "version": "3.12.8.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/opt/anaconda3/envs/bogdong/bin/python",
+      "/opt/anaconda3/envs/bogdong/bin/python3",
+      "/opt/anaconda3/envs/bogdong/bin/python3.1",
+      "/opt/anaconda3/envs/bogdong/bin/python3.12"
+    ]
+  },
+  "symlinks": []
+}

@@ -1,0 +1,23 @@
+2025-01-21 13:48:22.950 [info] Resolving launch configuration with substituted variables
+2025-01-21 13:48:22.997 [info] DAP Server launched with command: /opt/anaconda3/envs/bogdong/bin/python /home/iujeong/.vscode-server/extensions/ms-python.debugpy-2024.14.0/bundled/libs/debugpy/adapter
+2025-01-21 13:48:23.102 [info] Received 'debugpySockets' event from debugpy.
+2025-01-21 13:48:23.110 [info] Received 'debugpySockets' event from debugpy.
+2025-01-21 13:48:23.110 [info] Received 'debugpySockets' event from debugpy.
+2025-01-21 13:48:24.635 [info] Received 'debugpySockets' event from debugpy.
+2025-01-21 14:03:21.731 [info] Received 'debugpySockets' event from debugpy.
+2025-01-21 14:03:21.739 [info] Received 'debugpySockets' event from debugpy.
+2025-01-21 14:04:40.055 [info] Resolving launch configuration with substituted variables
+2025-01-21 14:04:40.069 [info] DAP Server launched with command: /opt/anaconda3/envs/bogdong/bin/python /home/iujeong/.vscode-server/extensions/ms-python.debugpy-2024.14.0/bundled/libs/debugpy/adapter
+2025-01-21 14:04:40.184 [info] Received 'debugpySockets' event from debugpy.
+2025-01-21 14:04:40.190 [info] Received 'debugpySockets' event from debugpy.
+2025-01-21 14:04:40.195 [info] Received 'debugpySockets' event from debugpy.
+2025-01-21 14:04:40.653 [info] Received 'debugpySockets' event from debugpy.
+2025-01-21 14:06:57.058 [info] Received 'debugpySockets' event from debugpy.
+2025-01-21 14:06:57.067 [info] Received 'debugpySockets' event from debugpy.
+2025-01-21 14:06:57.366 [info] DAP Server launched with command: /opt/anaconda3/envs/bogdong/bin/python /home/iujeong/.vscode-server/extensions/ms-python.debugpy-2024.14.0/bundled/libs/debugpy/adapter
+2025-01-21 14:06:57.458 [info] Received 'debugpySockets' event from debugpy.
+2025-01-21 14:06:57.464 [info] Received 'debugpySockets' event from debugpy.
+2025-01-21 14:06:57.467 [info] Received 'debugpySockets' event from debugpy.
+2025-01-21 14:06:57.937 [info] Received 'debugpySockets' event from debugpy.
+2025-01-21 14:12:41.247 [info] Received 'debugpySockets' event from debugpy.
+2025-01-21 14:12:41.252 [info] Received 'debugpySockets' event from debugpy.

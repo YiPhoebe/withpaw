@@ -1,0 +1,45 @@
+2025-01-20 12:32:03.139 [info] Extension host with pid 3174 started
+2025-01-20 12:32:03.139 [error] Error: EEXIST: file already exists, open '/home/iujeong/.vscode-server/data/User/workspaceStorage/d93eea3a3c3f435b3cabd9cc82da6704/vscode.lock'
+2025-01-20 12:32:03.141 [info] Lock '/home/iujeong/.vscode-server/data/User/workspaceStorage/d93eea3a3c3f435b3cabd9cc82da6704/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-01-20 12:32:03.142 [info] Lock '/home/iujeong/.vscode-server/data/User/workspaceStorage/d93eea3a3c3f435b3cabd9cc82da6704/vscode.lock': The pid 204753 appears to be gone.
+2025-01-20 12:32:03.142 [info] Lock '/home/iujeong/.vscode-server/data/User/workspaceStorage/d93eea3a3c3f435b3cabd9cc82da6704/vscode.lock': Deleting a stale lock.
+2025-01-20 12:32:03.146 [info] Lock '/home/iujeong/.vscode-server/data/User/workspaceStorage/d93eea3a3c3f435b3cabd9cc82da6704/vscode.lock': Lock acquired.
+2025-01-20 12:32:03.204 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2025-01-20 12:32:03.205 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-01-20 12:32:03.205 [info] ExtensionService#_doActivateExtension innerlee.nvidia-smi, startup: false, activationEvent: '*'
+2025-01-20 12:32:03.205 [info] ExtensionService#_doActivateExtension mutantdino.resourcemonitor, startup: false, activationEvent: '*'
+2025-01-20 12:32:03.205 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-01-20 12:32:03.205 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-20 12:32:03.205 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-01-20 12:32:03.205 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2025-01-20 12:32:03.494 [warning] Using default string since no string found in i18n bundle that has the key: Source map support is enabled in the Python Extension, this will adversely impact performance of the extension.
+2025-01-20 12:32:03.494 [warning] Using default string since no string found in i18n bundle that has the key: Disable Source Map Support
+2025-01-20 12:32:03.494 [warning] Using default string since no string found in i18n bundle that has the key: Enabling source map support in the Python Extension will adversely impact performance of the extension.
+2025-01-20 12:32:03.494 [warning] Using default string since no string found in i18n bundle that has the key: Enable and reload Window.
+2025-01-20 12:32:03.494 [warning] Using default string since no string found in i18n bundle that has the key: ▶ Launch TensorBoard Session
+2025-01-20 12:32:03.494 [warning] Using default string since no string found in i18n bundle that has the key: Launch TensorBoard session
+2025-01-20 12:32:03.607 [warning] Using default string since no string found in i18n bundle that has the key: The security certificate used by server was not issued by a trusted certificate authority.
+This may indicate an attempt to steal your information.
+2025-01-20 12:32:03.607 [warning] Using default string since no string found in i18n bundle that has the key: The security certificate used by server has expired.
+This may indicate an attempt to steal your information.
+2025-01-20 12:32:03.607 [warning] Using default string since no string found in i18n bundle that has the key: If you have not installed xelatex (TeX), you will need to do so before you can export to PDF. For further instructions, please see https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex. 
+To avoid installing xelatex (TeX), you might want to try exporting to HTML and using your browser's "Print to PDF" feature.
+2025-01-20 12:32:03.731 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2025-01-20 12:32:03.741 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-01-20 12:32:03.741 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-01-20 12:32:03.743 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2025-01-20 12:32:03.763 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-01-20 12:32:03.763 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-01-20 12:32:04.070 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-01-20 12:32:04.070 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-slideshow, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-01-20 12:32:04.208 [info] Eager extensions activated
+2025-01-20 12:32:04.208 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-20 12:32:04.208 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-20 12:32:04.208 [info] ExtensionService#_doActivateExtension hoovercj.vscode-power-mode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-20 12:32:04.208 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-01-20 12:32:04.208 [info] ExtensionService#_doActivateExtension RSIP-Vision.nvidia-smi-plus, startup: false, activationEvent: 'onStartupFinished'
+2025-01-20 12:32:04.208 [info] ExtensionService#_doActivateExtension YuTengjing.vscode-colorize-plus, startup: false, activationEvent: 'onStartupFinished'
+2025-01-20 14:58:33.658 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-01-20 14:58:38.820 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-01-20 14:58:38.820 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-01-20 14:58:38.820 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'

@@ -1,0 +1,13 @@
+{
+  "shell_port": 52497,
+  "iopub_port": 50987,
+  "stdin_port": 34703,
+  "control_port": 47359,
+  "hb_port": 57391,
+  "ip": "127.0.0.1",
+  "key": "44401d4f-5764c72236a38d61d6f6eade",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "iujeong",
+  "jupyter_session": "/home/iujeong/Untitled2.ipynb"
+}

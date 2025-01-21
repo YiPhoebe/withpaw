@@ -1,0 +1,14 @@
+Listening on 127.0.0.1:42657
+[2025-01-21 09:14:39] info Disposed of connection to running server.
+[2025-01-21 09:14:40] info Checking /home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/log.txt and /home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/pid.txt for a running server...
+[2025-01-21 09:14:40] info Found running server (pid=71783)
+[2025-01-21 09:14:44] info Disposed of connection to running server.
+[2025-01-21 09:14:45] info Disposed of connection to running server.
+[2025-01-21 09:14:45] info Checking /home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/log.txt and /home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/pid.txt for a running server...
+[2025-01-21 09:14:45] info Found running server (pid=71783)
+[2025-01-21 16:50:41] info Disposed of connection to running server.
+[2025-01-21 16:50:43] info Disposed of connection to running server.
+[2025-01-21 16:50:48] info Disposed of connection to running server.
+[2025-01-21 16:50:49] info Disposed of connection to running server.
+[2025-01-21 16:50:49] info Checking /home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/log.txt and /home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/pid.txt for a running server...
+[2025-01-21 16:50:49] info Found running server (pid=71783)

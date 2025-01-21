@@ -1,0 +1,48 @@
+Visual Studio Code (1.96.3, ssh-remote, desktop)
+Jupyter Extension Version: 2024.11.0.
+Python Extension Version: 2024.22.2.
+Pylance Extension Version: 2024.12.1.
+Platform: linux (x64).
+Temp Storage folder ~/.vscode-server/data/User/globalStorage/ms-toolsai.jupyter/version-2024.11.0
+Workspace folder /home/iujeong, Home = /home/iujeong
+16:47:13.005 [warn] No interpreter with path /opt/anaconda3/envs/bogdong/bin/python found in Python API, will convert Uri path to string as Id /opt/anaconda3/envs/bogdong/bin/python
+16:47:13.272 [info] Starting Kernel (Python Path: /opt/anaconda3/envs/bogdong/bin/python, Conda, 3.12.8) for '~/Study/250118_game.ipynb' (disableUI=true)
+16:47:13.273 [info] Starting Kernel (Python Path: /opt/anaconda3/envs/bogdong/bin/python, Conda, 3.12.8) for '~/Study/250117.ipynb' (disableUI=true)
+16:47:13.274 [info] Starting Kernel (Python Path: /opt/anaconda3/envs/bogdong/bin/python, Conda, 3.12.8) for '~/Study/250118_game3.ipynb' (disableUI=true)
+16:47:14.761 [info] Process Execution: /opt/anaconda3/envs/bogdong/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+16:47:14.764 [info] Process Execution: /opt/anaconda3/envs/bogdong/bin/python -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v3d56deba6a2642052a40e6b5e60e36b27310715e9.json
+    > cwd: //home/~/Study
+16:47:14.786 [info] Process Execution: /opt/anaconda3/envs/bogdong/bin/python -m pip list
+16:47:14.788 [info] Process Execution: /opt/anaconda3/envs/bogdong/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+16:47:14.790 [info] Process Execution: /opt/anaconda3/envs/bogdong/bin/python -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v30696d74ffc57651bcc71097ca43a73cb64e295a8.json
+    > cwd: //home/~/Study
+16:47:14.800 [info] Process Execution: /opt/anaconda3/envs/bogdong/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+16:47:14.801 [info] Process Execution: /opt/anaconda3/envs/bogdong/bin/python -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v3c779e0c2292a70046235b245e33d5cb6ee3ab4df.json
+    > cwd: //home/~/Study
+16:47:15.036 [info] Kernel successfully started
+16:47:15.051 [info] Kernel successfully started
+16:47:15.052 [info] Kernel successfully started
+16:47:15.056 [info] Process Execution: /opt/anaconda3/envs/bogdong/bin/python /home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/pythonFiles/printJupyterDataDir.py
+16:59:16.295 [info] Dispose Kernel '~/Study/250118_game3.ipynb' associated with '~/Study/250118_game3.ipynb'
+16:59:16.383 [info] Starting Kernel (Python Path: /opt/anaconda3/envs/bogdong/bin/python, Conda, 3.12.8) for '~/Study/250118_game2.ipynb' (disableUI=true)
+16:59:17.584 [info] Process Execution: /opt/anaconda3/envs/bogdong/bin/python -m pip list
+16:59:17.587 [info] Process Execution: /opt/anaconda3/envs/bogdong/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+16:59:17.589 [info] Process Execution: /opt/anaconda3/envs/bogdong/bin/python -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v35843455f6e14dfbc5c531de4503b463ea09cf488.json
+    > cwd: //home/~/Study
+16:59:17.709 [info] Dispose Kernel '~/Study/250118_game2.ipynb' associated with '~/Study/250118_game2.ipynb'
+16:59:17.714 [warn] Failed to shutdown kernel, .jvsc74a57bd08825821440f3862603bbdaf866cc8ac10bfab06393672815caa87c47036074fb./opt/anaconda3/envs/bogdong/python./opt/anaconda3/envs/bogdong/python.-m#ipykernel_launcher [TypeError: Cannot read properties of undefined (reading 'dispose')
+	at $_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:13745)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async q_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:22578)]
+16:59:19.700 [info] Dispose Kernel '~/Study/250118_game.ipynb' associated with '~/Study/250118_game.ipynb'
+16:59:22.889 [info] Dispose Kernel '~/Study/250117.ipynb' associated with '~/Study/250117.ipynb'
+17:01:57.646 [info] Starting Kernel (Python Path: /opt/anaconda3/envs/bogdong/bin/python, Conda, 3.12.8) for '~/Study/whitpaw/withpaw.ipynb' (disableUI=true)
+17:01:57.651 [info] Process Execution: /opt/anaconda3/envs/bogdong/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+17:01:57.656 [info] Process Execution: /opt/anaconda3/envs/bogdong/bin/python -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v3077a46059e65b6d31b3333b060b00de0ac7a8c7d.json
+    > cwd: //home/~/Study/whitpaw
+17:01:57.924 [info] Kernel successfully started
+18:20:55.145 [info] Dispose Kernel '~/Study/250118_game.ipynb' associated with '~/Study/250118_game.ipynb'
+18:20:55.145 [info] Dispose Kernel '~/Study/250117.ipynb' associated with '~/Study/250117.ipynb'
+18:20:55.145 [info] Dispose Kernel '~/Study/250118_game3.ipynb' associated with '~/Study/250118_game3.ipynb'
+18:20:55.145 [info] Dispose Kernel '~/Study/250118_game2.ipynb' associated with '~/Study/250118_game2.ipynb'
+18:20:55.145 [info] Dispose Kernel '~/Study/whitpaw/withpaw.ipynb' associated with '~/Study/whitpaw/withpaw.ipynb'

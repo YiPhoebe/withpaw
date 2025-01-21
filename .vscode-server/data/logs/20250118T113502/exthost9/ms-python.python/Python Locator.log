@@ -1,0 +1,216 @@
+2025-01-18 19:35:33.826 [info] Starting Python Locator /home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/python-env-tools/bin/pet server
+2025-01-18 19:35:33.833 [info] Discovered manager: (Conda) /opt/anaconda3/bin/conda
+2025-01-18 19:35:33.833 [info] Discovered env: /opt/anaconda3/bin/python
+2025-01-18 19:35:33.840 [info] Discovered env: /opt/anaconda3/envs/python=3.13
+2025-01-18 19:35:33.845 [info] Discovered env: /opt/anaconda3/envs/aicar/bin/python
+2025-01-18 19:35:33.849 [info] Discovered env: /opt/anaconda3/envs/JokerK/bin/python
+2025-01-18 19:35:33.850 [info] Discovered env: /opt/anaconda3/envs/autopilot_lsm/bin/python
+2025-01-18 19:35:33.852 [info] Discovered env: /opt/anaconda3/envs/env_lsy/bin/python
+2025-01-18 19:35:33.853 [info] Discovered env: /opt/anaconda3/envs/ehdnjs_yolo/bin/python
+2025-01-18 19:35:33.855 [info] Discovered env: /opt/anaconda3/envs/kaldi/bin/python
+2025-01-18 19:35:33.857 [info] Discovered env: /opt/anaconda3/envs/hansol/bin/python
+2025-01-18 19:35:33.861 [info] Discovered env: /opt/anaconda3/envs/jayeon/bin/python
+2025-01-18 19:35:33.864 [info] Discovered env: /opt/anaconda3/envs/myenv/bin/python
+2025-01-18 19:35:33.890 [info] Discovered env: /opt/anaconda3/envs/bin234/bin/python
+2025-01-18 19:35:33.940 [info] Discovered env: /opt/anaconda3/envs/bin345/bin/python
+2025-01-18 19:35:33.948 [info] Discovered env: /opt/anaconda3/envs/basic/bin/python
+2025-01-18 19:35:33.950 [info] Discovered env: /opt/anaconda3/envs/cdp310/bin/python
+2025-01-18 19:35:33.952 [info] Discovered env: /opt/anaconda3/envs/bin123/bin/python
+2025-01-18 19:35:33.953 [info] Discovered env: /opt/anaconda3/envs/goguma/bin/python
+2025-01-18 19:35:33.955 [info] Discovered env: /opt/anaconda3/envs/gps/bin/python
+2025-01-18 19:35:33.957 [info] Discovered env: /opt/anaconda3/envs/test999/bin/python
+2025-01-18 19:35:33.958 [info] Discovered env: /opt/anaconda3/envs/dlalsrb123/bin/python
+2025-01-18 19:35:33.959 [info] Discovered env: /opt/anaconda3/envs/ezh123/bin/python
+2025-01-18 19:35:33.961 [info] Discovered env: /opt/anaconda3/envs/newenv/bin/python
+2025-01-18 19:35:33.962 [info] Discovered env: /opt/anaconda3/envs/kgjtest/bin/python
+2025-01-18 19:35:33.964 [info] Discovered env: /opt/anaconda3/envs/golf/bin/python
+2025-01-18 19:35:33.965 [info] Discovered env: /opt/anaconda3/envs/test1299/bin/python
+2025-01-18 19:35:33.967 [info] Discovered env: /opt/anaconda3/envs/surveybay/bin/python
+2025-01-18 19:35:33.970 [info] Discovered env: /opt/anaconda3/envs/bk7602/bin/python
+2025-01-18 19:35:33.971 [info] Discovered env: /opt/anaconda3/envs/lanenet_env/bin/python
+2025-01-18 19:35:33.977 [info] Discovered env: /opt/anaconda3/envs/person_tracking/bin/python
+2025-01-18 19:35:33.979 [info] Discovered env: /opt/anaconda3/envs/water/bin/python
+2025-01-18 19:35:33.981 [info] Discovered env: /opt/anaconda3/envs/test1026/bin/python
+2025-01-18 19:35:33.983 [info] Discovered env: /opt/anaconda3/envs/skaigroove/bin/python
+2025-01-18 19:35:33.984 [info] Discovered env: /opt/anaconda3/envs/yangpa/bin/python
+2025-01-18 19:35:33.986 [info] Discovered env: /opt/anaconda3/envs/yolop/bin/python
+2025-01-18 19:35:33.987 [info] Discovered env: /bin/python3
+2025-01-18 19:35:33.989 [info] Discovered env: /opt/anaconda3/envs/cju_mlane/bin/python
+2025-01-18 19:35:33.991 [info] Discovered env: /usr/bin/python3
+2025-01-18 19:35:33.992 [info] Discovered env: /opt/anaconda3/envs/jha/bin/python
+2025-01-18 19:35:33.998 [info] Discovered env: /opt/anaconda3/envs/bogdong/bin/python
+2025-01-18 19:35:34.000 [info] Discovered env: /opt/anaconda3/envs/hjjeon/bin/python
+2025-01-18 19:35:34.002 [info] Discovered env: /opt/anaconda3/envs/msoh/bin/python
+2025-01-18 19:35:34.004 [info] Discovered env: /opt/anaconda3/envs/nanie/bin/python
+2025-01-18 19:35:34.005 [info] Discovered env: /opt/anaconda3/envs/nanie1/bin/python
+2025-01-18 19:35:34.007 [info] Discovered env: /opt/anaconda3/envs/cju/bin/python
+2025-01-18 19:35:34.009 [info] Discovered env: /opt/anaconda3/envs/KGJ/bin/python
+2025-01-18 19:35:34.011 [info] Discovered env: /opt/anaconda3/envs/adas_cju/bin/python
+2025-01-18 19:35:34.013 [info] Discovered env: /opt/anaconda3/envs/nanie1664/bin/python
+2025-01-18 19:35:34.015 [info] Discovered env: /opt/anaconda3/envs/cgh/bin/python
+2025-01-18 19:35:34.016 [info] Discovered env: /opt/anaconda3/envs/test123/bin/python
+2025-01-18 19:35:34.020 [info] Discovered env: /opt/anaconda3/envs/test8737/bin/python
+2025-01-18 19:35:34.022 [info] Discovered env: /opt/anaconda3/envs/shkim/bin/python
+2025-01-18 19:35:34.024 [info] Discovered env: /opt/anaconda3/envs/torch/bin/python
+2025-01-18 19:35:34.026 [info] Locator Conda took 113.844383ms
+2025-01-18 19:35:34.026 [info] Locator Homebrew took 87.962µs
+2025-01-18 19:35:34.026 [info] Locator LinuxGlobal took 111.913699ms
+2025-01-18 19:35:34.026 [info] Locator PipEnv took 8.639µs
+2025-01-18 19:35:34.026 [info] Locator Poetry took 762.706µs
+2025-01-18 19:35:34.026 [info] Locator PyEnv took 58.339µs
+2025-01-18 19:35:34.026 [info] Locator Venv took 20.138µs
+2025-01-18 19:35:34.026 [info] Locator VirtualEnv took 72.107µs
+2025-01-18 19:35:34.026 [info] Locator VirtualEnvWrapper took 94.247µs
+2025-01-18 19:35:34.026 [info] Locator GlobalVirtualEnvs took 94.058µs
+2025-01-18 19:35:34.026 [info] Locator Locators took 114.50492ms
+2025-01-18 19:35:34.026 [info] Locator Path took 158.920247ms
+2025-01-18 19:35:34.026 [info] Locator Workspaces took 2.816694ms
+2025-01-18 19:35:34.026 [info] Refresh completed in 159ms
+2025-01-18 19:35:34.027 [warning] Inaccurate Python Environment Info for => 
+Environment (Conda)
+   Name        : base
+   Executable  : /opt/anaconda3/bin/python
+   Version     : 3.12.8
+   Prefix      : /opt/anaconda3
+   Architecture: x64
+   Manager     : Conda, /opt/anaconda3/bin/conda
+   Symlinks    : "/opt/anaconda3/bin/python"
+               : "/opt/anaconda3/bin/python3"
+               : "/opt/anaconda3/bin/python3.1"
+               : "/opt/anaconda3/bin/python3.12"
+.
+Resolved as => 
+Environment (Conda)
+   Name        : base
+   Executable  : /opt/anaconda3/bin/python
+   Version     : 3.12.4.final.0
+   Prefix      : /opt/anaconda3
+   Architecture: x64
+   Manager     : Conda, /opt/anaconda3/bin/conda
+   Symlinks    : "/opt/anaconda3/bin/python"
+               : "/opt/anaconda3/bin/python3"
+               : "/opt/anaconda3/bin/python3.1"
+               : "/opt/anaconda3/bin/python3.12"
+
+Incorrect information => 
+Environment Some(Conda) incorrectly identified
+   Version is incorrect
+
+2025-01-18 19:35:34.027 [info] Resolved Python Environment /opt/anaconda3/bin/python
+2025-01-18 19:35:34.028 [info] Resolved Python Environment /opt/anaconda3/envs/bogdong/bin/python
+2025-01-18 19:35:34.029 [info] Resolved Python Environment /bin/python3
+2025-01-18 20:55:54.975 [info] Resolved Python Environment /bin/python3
+2025-01-18 20:59:14.247 [info] Resolved Python Environment /bin/python3
+2025-01-18 20:59:16.760 [info] Resolved Python Environment /opt/anaconda3/envs/bogdong/bin/python
+2025-01-18 21:00:21.882 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:00:55.653 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:03:24.965 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:05:22.498 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:08:53.070 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:11:11.225 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:14:38.816 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:24:04.903 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:25:52.769 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:29:17.513 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:40:30.338 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:43:39.893 [info] Discovered manager: (Conda) /opt/anaconda3/bin/conda
+2025-01-18 21:43:39.894 [info] Discovered env: /opt/anaconda3/bin/python
+2025-01-18 21:43:39.916 [info] Discovered env: /opt/anaconda3/envs/bin234/bin/python
+2025-01-18 21:43:39.916 [info] Discovered env: /opt/anaconda3/envs/basic/bin/python
+2025-01-18 21:43:39.917 [info] Discovered env: /opt/anaconda3/envs/autopilot_lsm/bin/python
+2025-01-18 21:43:39.917 [info] Discovered env: /opt/anaconda3/envs/JokerK/bin/python
+2025-01-18 21:43:39.918 [info] Discovered env: /opt/anaconda3/envs/aicar/bin/python
+2025-01-18 21:43:39.918 [info] Discovered env: /opt/anaconda3/envs/bin345/bin/python
+2025-01-18 21:43:39.918 [info] Discovered env: /opt/anaconda3/envs/bin123/bin/python
+2025-01-18 21:43:39.919 [info] Discovered env: /opt/anaconda3/envs/python=3.13
+2025-01-18 21:43:39.920 [info] Discovered env: /opt/anaconda3/envs/cdp310/bin/python
+2025-01-18 21:43:39.922 [info] Discovered env: /opt/anaconda3/envs/ehdnjs_yolo/bin/python
+2025-01-18 21:43:39.923 [info] Discovered env: /opt/anaconda3/envs/jayeon/bin/python
+2025-01-18 21:43:39.923 [info] Discovered env: /opt/anaconda3/envs/kaldi/bin/python
+2025-01-18 21:43:39.924 [info] Discovered env: /opt/anaconda3/envs/env_lsy/bin/python
+2025-01-18 21:43:39.924 [info] Discovered env: /opt/anaconda3/envs/gps/bin/python
+2025-01-18 21:43:39.925 [info] Discovered env: /opt/anaconda3/envs/bk7602/bin/python
+2025-01-18 21:43:39.925 [info] Discovered env: /opt/anaconda3/envs/ezh123/bin/python
+2025-01-18 21:43:39.926 [info] Discovered env: /opt/anaconda3/envs/dlalsrb123/bin/python
+2025-01-18 21:43:39.926 [info] Discovered env: /opt/anaconda3/envs/golf/bin/python
+2025-01-18 21:43:39.926 [info] Discovered env: /opt/anaconda3/envs/newenv/bin/python
+2025-01-18 21:43:39.927 [info] Discovered env: /opt/anaconda3/envs/goguma/bin/python
+2025-01-18 21:43:39.927 [info] Discovered env: /opt/anaconda3/envs/myenv/bin/python
+2025-01-18 21:43:39.927 [info] Discovered env: /opt/anaconda3/envs/lanenet_env/bin/python
+2025-01-18 21:43:39.928 [info] Discovered env: /opt/anaconda3/envs/water/bin/python
+2025-01-18 21:43:39.928 [info] Discovered env: /opt/anaconda3/envs/test1299/bin/python
+2025-01-18 21:43:39.928 [info] Discovered env: /opt/anaconda3/envs/kgjtest/bin/python
+2025-01-18 21:43:39.928 [info] Discovered env: /opt/anaconda3/envs/hansol/bin/python
+2025-01-18 21:43:39.929 [info] Discovered env: /opt/anaconda3/envs/skaigroove/bin/python
+2025-01-18 21:43:39.929 [info] Discovered env: /opt/anaconda3/envs/KGJ/bin/python
+2025-01-18 21:43:39.929 [info] Discovered env: /opt/anaconda3/envs/test999/bin/python
+2025-01-18 21:43:39.929 [info] Discovered env: /opt/anaconda3/envs/surveybay/bin/python
+2025-01-18 21:43:39.930 [info] Discovered env: /opt/anaconda3/envs/test1026/bin/python
+2025-01-18 21:43:39.930 [info] Discovered env: /opt/anaconda3/envs/person_tracking/bin/python
+2025-01-18 21:43:39.930 [info] Discovered env: /opt/anaconda3/envs/nanie1664/bin/python
+2025-01-18 21:43:39.930 [info] Discovered env: /opt/anaconda3/envs/adas_cju/bin/python
+2025-01-18 21:43:39.930 [info] Discovered env: /opt/anaconda3/envs/yangpa/bin/python
+2025-01-18 21:43:39.930 [info] Discovered env: /opt/anaconda3/envs/yolop/bin/python
+2025-01-18 21:43:39.931 [info] Discovered env: /opt/anaconda3/envs/cju_mlane/bin/python
+2025-01-18 21:43:39.931 [info] Discovered env: /opt/anaconda3/envs/hjjeon/bin/python
+2025-01-18 21:43:39.931 [info] Discovered env: /opt/anaconda3/envs/jha/bin/python
+2025-01-18 21:43:39.931 [info] Discovered env: /opt/anaconda3/envs/nanie/bin/python
+2025-01-18 21:43:39.931 [info] Discovered env: /opt/anaconda3/envs/cgh/bin/python
+2025-01-18 21:43:39.931 [info] Discovered env: /opt/anaconda3/envs/msoh/bin/python
+2025-01-18 21:43:39.931 [info] Discovered env: /opt/anaconda3/envs/test8737/bin/python
+2025-01-18 21:43:39.931 [info] Discovered env: /opt/anaconda3/envs/bogdong/bin/python
+2025-01-18 21:43:39.932 [info] Discovered env: /opt/anaconda3/envs/cju/bin/python
+2025-01-18 21:43:39.932 [info] Discovered env: /opt/anaconda3/envs/nanie1/bin/python
+2025-01-18 21:43:39.932 [info] Discovered env: /opt/anaconda3/envs/test123/bin/python
+2025-01-18 21:43:39.933 [info] Discovered env: /opt/anaconda3/envs/shkim/bin/python
+2025-01-18 21:43:39.933 [info] Discovered env: /opt/anaconda3/envs/torch/bin/python
+2025-01-18 21:43:39.936 [info] Discovered env: /bin/python3
+2025-01-18 21:43:39.939 [info] Discovered env: /usr/bin/python3
+2025-01-18 21:43:39.967 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:43:40.001 [info] Locator Conda took 55.310564ms
+2025-01-18 21:43:40.001 [info] Locator Homebrew took 25.864µs
+2025-01-18 21:43:40.001 [info] Locator LinuxGlobal took 60.513311ms
+2025-01-18 21:43:40.001 [info] Locator PipEnv took 11.464µs
+2025-01-18 21:43:40.001 [info] Locator Poetry took 75.018µs
+2025-01-18 21:43:40.001 [info] Locator PyEnv took 139.491µs
+2025-01-18 21:43:40.001 [info] Locator Venv took 10.206µs
+2025-01-18 21:43:40.001 [info] Locator VirtualEnv took 24.115µs
+2025-01-18 21:43:40.001 [info] Locator VirtualEnvWrapper took 21.57µs
+2025-01-18 21:43:40.001 [info] Locator GlobalVirtualEnvs took 99.794µs
+2025-01-18 21:43:40.001 [info] Locator Locators took 61.272732ms
+2025-01-18 21:43:40.001 [info] Locator Path took 123.130244ms
+2025-01-18 21:43:40.001 [info] Locator Workspaces took 2.337421ms
+2025-01-18 21:43:40.001 [info] Refresh completed in 123ms
+2025-01-18 21:44:30.843 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:46:45.617 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:47:45.562 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:48:57.609 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:49:49.961 [info] Resolved Python Environment /opt/anaconda3/envs/bogdong/bin/python
+2025-01-18 21:49:49.973 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:51:01.494 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:52:23.192 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:52:44.486 [info] Resolved Python Environment /opt/anaconda3/envs/bogdong/bin/python
+2025-01-18 21:53:22.048 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:54:11.099 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:54:45.252 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:57:18.843 [info] Resolved Python Environment /bin/python3
+2025-01-18 21:59:44.764 [info] Resolved Python Environment /bin/python3
+2025-01-18 22:00:24.226 [info] Resolved Python Environment /bin/python3
+2025-01-18 22:00:58.887 [info] Resolved Python Environment /bin/python3
+2025-01-18 22:01:57.300 [info] Resolved Python Environment /bin/python3
+2025-01-18 22:06:47.699 [info] Resolved Python Environment /bin/python3
+2025-01-18 22:09:26.078 [info] Resolved Python Environment /bin/python3
+2025-01-18 22:09:33.481 [info] Resolved Python Environment /opt/anaconda3/envs/bogdong/bin/python
+2025-01-18 22:20:48.746 [info] Resolved Python Environment /bin/python3
+2025-01-18 22:22:37.910 [info] Resolved Python Environment /bin/python3
+2025-01-18 22:26:07.705 [info] Resolved Python Environment /bin/python3
+2025-01-18 22:26:47.046 [info] Resolved Python Environment /bin/python3
+2025-01-18 22:27:46.039 [info] Resolved Python Environment /bin/python3
+2025-01-18 22:28:46.127 [info] Resolved Python Environment /bin/python3
+2025-01-18 22:30:24.640 [info] Resolved Python Environment /bin/python3
+2025-01-18 22:31:28.576 [info] Resolved Python Environment /bin/python3
+2025-01-18 22:35:07.599 [info] Resolved Python Environment /bin/python3
+2025-01-18 22:37:14.391 [info] Resolved Python Environment /bin/python3
+2025-01-18 22:37:52.747 [info] Resolved Python Environment /bin/python3
+2025-01-18 22:40:44.524 [info] Resolved Python Environment /bin/python3
+2025-01-18 22:41:15.058 [info] Resolved Python Environment /bin/python3

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>나의 반려동물</title>
+</head>
+<body>
+    <h2>반려동물 목록</h2>
+    <ul>
+    {% for pet in pets %}
+        <li>이름: {{ pet[0] }}, 나이: {{ pet[1] }}, 종: {{ pet[2] }}, 품종: {{ pet[3] }}</li>
+    {% endfor %}
+    </ul>
+    <a href="{{ url_for('home') }}">메인으로 돌아가기</a>
+</body>
+</html>

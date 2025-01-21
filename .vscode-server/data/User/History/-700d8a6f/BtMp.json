@@ -1,0 +1,12 @@
+{
+    "workbench.editorAssociations": {
+        "*.xls": "default",
+        "{git,gitlens,git-graph}:/**/*.{md,csv,svg}": "default",
+        "*.cvs": "default"
+    },
+    "workbench.colorTheme": "One Dark Modern",
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "terminal.integrated.inheritEnv": false,
+    "workbench.iconTheme": "eq-material-theme-icons-darker"
+}

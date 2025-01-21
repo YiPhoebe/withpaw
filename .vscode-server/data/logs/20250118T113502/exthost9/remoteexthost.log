@@ -1,0 +1,46 @@
+2025-01-18 19:35:32.622 [info] Extension host with pid 211070 started
+2025-01-18 19:35:32.622 [error] Error: EEXIST: file already exists, open '/home/iujeong/.vscode-server/data/User/workspaceStorage/d93eea3a3c3f435b3cabd9cc82da6704/vscode.lock'
+2025-01-18 19:35:32.624 [info] Lock '/home/iujeong/.vscode-server/data/User/workspaceStorage/d93eea3a3c3f435b3cabd9cc82da6704/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-01-18 19:35:32.625 [info] Lock '/home/iujeong/.vscode-server/data/User/workspaceStorage/d93eea3a3c3f435b3cabd9cc82da6704/vscode.lock': The lock does not look stale, elapsed: 364 ms, giving up.
+2025-01-18 19:35:32.630 [info] Lock '/home/iujeong/.vscode-server/data/User/workspaceStorage/d93eea3a3c3f435b3cabd9cc82da6704-1/vscode.lock': Lock acquired.
+2025-01-18 19:35:32.704 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2025-01-18 19:35:32.704 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-01-18 19:35:32.704 [info] ExtensionService#_doActivateExtension innerlee.nvidia-smi, startup: false, activationEvent: '*'
+2025-01-18 19:35:32.705 [info] ExtensionService#_doActivateExtension mutantdino.resourcemonitor, startup: false, activationEvent: '*'
+2025-01-18 19:35:32.705 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2025-01-18 19:35:32.996 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-01-18 19:35:32.996 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-01-18 19:35:33.118 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-01-18 19:35:33.118 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-01-18 19:35:33.118 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-slideshow, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-01-18 19:35:33.149 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:.conda'
+2025-01-18 19:35:33.157 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-18 19:35:33.265 [warning] Using default string since no string found in i18n bundle that has the key: The security certificate used by server was not issued by a trusted certificate authority.
+This may indicate an attempt to steal your information.
+2025-01-18 19:35:33.265 [warning] Using default string since no string found in i18n bundle that has the key: The security certificate used by server has expired.
+This may indicate an attempt to steal your information.
+2025-01-18 19:35:33.265 [warning] Using default string since no string found in i18n bundle that has the key: If you have not installed xelatex (TeX), you will need to do so before you can export to PDF. For further instructions, please see https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex. 
+To avoid installing xelatex (TeX), you might want to try exporting to HTML and using your browser's "Print to PDF" feature.
+2025-01-18 19:35:33.383 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2025-01-18 19:35:33.454 [warning] Using default string since no string found in i18n bundle that has the key: Source map support is enabled in the Python Extension, this will adversely impact performance of the extension.
+2025-01-18 19:35:33.454 [warning] Using default string since no string found in i18n bundle that has the key: Disable Source Map Support
+2025-01-18 19:35:33.454 [warning] Using default string since no string found in i18n bundle that has the key: Enabling source map support in the Python Extension will adversely impact performance of the extension.
+2025-01-18 19:35:33.454 [warning] Using default string since no string found in i18n bundle that has the key: Enable and reload Window.
+2025-01-18 19:35:33.454 [warning] Using default string since no string found in i18n bundle that has the key: ▶ Launch TensorBoard Session
+2025-01-18 19:35:33.454 [warning] Using default string since no string found in i18n bundle that has the key: Launch TensorBoard session
+2025-01-18 19:35:33.625 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-01-18 19:35:33.625 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-01-18 19:35:33.765 [info] Eager extensions activated
+2025-01-18 19:35:33.765 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-18 19:35:33.766 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-18 19:35:33.766 [info] ExtensionService#_doActivateExtension hoovercj.vscode-power-mode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-18 19:35:33.766 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-01-18 19:35:33.766 [info] ExtensionService#_doActivateExtension RSIP-Vision.nvidia-smi-plus, startup: false, activationEvent: 'onStartupFinished'
+2025-01-18 19:35:33.766 [info] ExtensionService#_doActivateExtension YuTengjing.vscode-colorize-plus, startup: false, activationEvent: 'onStartupFinished'
+2025-01-18 22:07:41.562 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-01-18 22:07:46.828 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-01-18 22:07:46.828 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-01-18 22:07:46.828 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-01-19 02:56:51.499 [info] Extension host terminating: renderer disconnected for too long (1)
+2025-01-19 02:56:51.534 [info] Lock '/home/iujeong/.vscode-server/data/User/workspaceStorage/d93eea3a3c3f435b3cabd9cc82da6704-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-01-19 02:56:51.566 [info] Extension host with pid 211070 exiting with code 0

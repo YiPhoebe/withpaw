@@ -1,0 +1,78 @@
+2025-01-17 15:57:25.388 [info] 
+
+
+
+
+2025-01-17 15:57:25.392 [info] Extension host agent started.
+2025-01-17 15:57:25.409 [info] Started initializing default profile extensions in extensions installation folder. file:///home/iujeong/.vscode-server/extensions
+2025-01-17 15:57:25.419 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/iujeong/.vscode-server/extensions
+2025-01-17 15:57:25.444 [info] [<unknown>][6c3c416e][ManagementConnection] New connection established.
+2025-01-17 15:57:25.450 [info] [<unknown>][b01764cd][ExtensionHostConnection] New connection established.
+2025-01-17 15:57:25.490 [info] [<unknown>][b01764cd][ExtensionHostConnection] <200080> Launched Extension Host Process.
+2025-01-17 15:57:25.540 [info] Installing extensions...
+2025-01-17 15:57:25.813 [info] Installing extension 'ms-ceintl.vscode-language-pack-ko'...
+2025-01-17 15:57:26.007 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ko
+2025-01-17 15:57:26.015 [info] Installing extension: ms-ceintl.vscode-language-pack-ko {"isMachineScoped":true,"isBuiltin":false,"installGivenVersion":false,"isApplicationScoped":true,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/iujeong/.vscode-server/extensions/extensions.json","external":"file:///home/iujeong/.vscode-server/extensions/extensions.json","path":"/home/iujeong/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.3","date":"2025-01-09T18:14:09.060Z"}}
+2025-01-17 15:57:26.794 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-ko: Success. Executed: true. Duration: 490ms.
+2025-01-17 15:57:26.817 [info] Extracted extension to file:///home/iujeong/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ko-1.96.2024121109: ms-ceintl.vscode-language-pack-ko
+2025-01-17 15:57:26.827 [info] Renamed to /home/iujeong/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ko-1.96.2024121109
+2025-01-17 15:57:26.829 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ko
+2025-01-17 15:57:26.835 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ko file:///home/iujeong/.vscode-server/extensions/extensions.json
+2025-01-17 15:57:26.836 [info] Extension 'ms-ceintl.vscode-language-pack-ko' v1.96.2024121109 was successfully installed.
+2025-01-17 16:02:25.392 [info] New EH opened, aborting shutdown
+2025-01-17 16:04:16.322 [info] [<unknown>][6c3c416e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-17 16:04:16.332 [info] [<unknown>][b01764cd][ExtensionHostConnection] <200080> Extension Host Process exited with code: 0, signal: null.
+2025-01-17 16:04:16.333 [info] Last EH closed, waiting before shutting down
+2025-01-17 16:04:16.992 [info] [<unknown>][7ef270cb][ExtensionHostConnection] New connection established.
+2025-01-17 16:04:16.994 [info] [<unknown>][7ef270cb][ExtensionHostConnection] <213516> Launched Extension Host Process.
+2025-01-17 16:04:16.998 [info] [<unknown>][f2d96c6b][ManagementConnection] New connection established.
+2025-01-17 16:09:16.333 [info] New EH opened, aborting shutdown
+2025-01-17 16:27:11.202 [info] Getting Manifest... yutengjing.vscode-colorize-plus
+2025-01-17 16:27:11.243 [info] Installing extension: yutengjing.vscode-colorize-plus {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"darwin-arm64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/iujeong/.vscode-server/extensions/extensions.json","external":"file:///home/iujeong/.vscode-server/extensions/extensions.json","path":"/home/iujeong/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.3","date":"2025-01-09T18:14:09.060Z"}}
+2025-01-17 16:27:12.345 [info] Extension signature verification result for yutengjing.vscode-colorize-plus: Success. Executed: true. Duration: 571ms.
+2025-01-17 16:27:12.349 [info] Extracted extension to file:///home/iujeong/.vscode-server/extensions/yutengjing.vscode-colorize-plus-0.12.13: yutengjing.vscode-colorize-plus
+2025-01-17 16:27:12.358 [info] Renamed to /home/iujeong/.vscode-server/extensions/yutengjing.vscode-colorize-plus-0.12.13
+2025-01-17 16:27:12.361 [info] Extension installed successfully: yutengjing.vscode-colorize-plus file:///home/iujeong/.vscode-server/extensions/extensions.json
+2025-01-17 16:27:23.344 [info] Getting Manifest... mechatroner.rainbow-csv
+2025-01-17 16:27:23.383 [info] Installing extension: mechatroner.rainbow-csv {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"darwin-arm64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/iujeong/.vscode-server/extensions/extensions.json","external":"file:///home/iujeong/.vscode-server/extensions/extensions.json","path":"/home/iujeong/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.3","date":"2025-01-09T18:14:09.060Z"}}
+2025-01-17 16:27:24.075 [info] Extension signature verification result for mechatroner.rainbow-csv: Success. Executed: true. Duration: 354ms.
+2025-01-17 16:27:24.096 [info] Extracted extension to file:///home/iujeong/.vscode-server/extensions/mechatroner.rainbow-csv-3.14.0: mechatroner.rainbow-csv
+2025-01-17 16:27:24.105 [info] Renamed to /home/iujeong/.vscode-server/extensions/mechatroner.rainbow-csv-3.14.0
+2025-01-17 16:27:24.108 [info] Extension installed successfully: mechatroner.rainbow-csv file:///home/iujeong/.vscode-server/extensions/extensions.json
+2025-01-17 16:29:10.097 [info] Getting Manifest... innerlee.nvidia-smi
+2025-01-17 16:29:10.137 [info] Installing extension: innerlee.nvidia-smi {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"darwin-arm64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/iujeong/.vscode-server/extensions/extensions.json","external":"file:///home/iujeong/.vscode-server/extensions/extensions.json","path":"/home/iujeong/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.3","date":"2025-01-09T18:14:09.060Z"}}
+2025-01-17 16:29:10.975 [info] Extension signature verification result for innerlee.nvidia-smi: Success. Executed: true. Duration: 355ms.
+2025-01-17 16:29:10.986 [info] Extracted extension to file:///home/iujeong/.vscode-server/extensions/innerlee.nvidia-smi-0.2.0: innerlee.nvidia-smi
+2025-01-17 16:29:10.995 [info] Renamed to /home/iujeong/.vscode-server/extensions/innerlee.nvidia-smi-0.2.0
+2025-01-17 16:29:10.997 [info] Extension installed successfully: innerlee.nvidia-smi file:///home/iujeong/.vscode-server/extensions/extensions.json
+2025-01-17 16:29:15.440 [info] Getting Manifest... rsip-vision.nvidia-smi-plus
+2025-01-17 16:29:15.483 [info] Installing extension: rsip-vision.nvidia-smi-plus {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"darwin-arm64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/iujeong/.vscode-server/extensions/extensions.json","external":"file:///home/iujeong/.vscode-server/extensions/extensions.json","path":"/home/iujeong/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.3","date":"2025-01-09T18:14:09.060Z"}}
+2025-01-17 16:29:16.124 [info] Extension signature verification result for rsip-vision.nvidia-smi-plus: Success. Executed: true. Duration: 351ms.
+2025-01-17 16:29:16.130 [info] Extracted extension to file:///home/iujeong/.vscode-server/extensions/rsip-vision.nvidia-smi-plus-1.0.1: rsip-vision.nvidia-smi-plus
+2025-01-17 16:29:16.139 [info] Renamed to /home/iujeong/.vscode-server/extensions/rsip-vision.nvidia-smi-plus-1.0.1
+2025-01-17 16:29:16.141 [info] Extension installed successfully: rsip-vision.nvidia-smi-plus file:///home/iujeong/.vscode-server/extensions/extensions.json
+2025-01-17 16:29:43.099 [info] Getting Manifest... mutantdino.resourcemonitor
+2025-01-17 16:29:43.150 [info] Installing extension: mutantdino.resourcemonitor {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"darwin-arm64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/iujeong/.vscode-server/extensions/extensions.json","external":"file:///home/iujeong/.vscode-server/extensions/extensions.json","path":"/home/iujeong/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.3","date":"2025-01-09T18:14:09.060Z"}}
+2025-01-17 16:29:43.916 [info] Extension signature verification result for mutantdino.resourcemonitor: Success. Executed: true. Duration: 355ms.
+2025-01-17 16:29:43.922 [info] Extracted extension to file:///home/iujeong/.vscode-server/extensions/mutantdino.resourcemonitor-1.0.7: mutantdino.resourcemonitor
+2025-01-17 16:29:43.931 [info] Renamed to /home/iujeong/.vscode-server/extensions/mutantdino.resourcemonitor-1.0.7
+2025-01-17 16:29:43.933 [info] Extension installed successfully: mutantdino.resourcemonitor file:///home/iujeong/.vscode-server/extensions/extensions.json
+2025-01-17 16:37:43.194 [info] Getting Manifest... hoovercj.vscode-power-mode
+2025-01-17 16:37:43.237 [info] Installing extension: hoovercj.vscode-power-mode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"darwin-arm64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/iujeong/.vscode-server/extensions/extensions.json","external":"file:///home/iujeong/.vscode-server/extensions/extensions.json","path":"/home/iujeong/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.3","date":"2025-01-09T18:14:09.060Z"}}
+2025-01-17 16:37:44.959 [info] Extension signature verification result for hoovercj.vscode-power-mode: Success. Executed: true. Duration: 368ms.
+2025-01-17 16:37:45.002 [info] Extracted extension to file:///home/iujeong/.vscode-server/extensions/hoovercj.vscode-power-mode-3.0.2: hoovercj.vscode-power-mode
+2025-01-17 16:37:45.012 [info] Renamed to /home/iujeong/.vscode-server/extensions/hoovercj.vscode-power-mode-3.0.2
+2025-01-17 16:37:45.016 [info] Extension installed successfully: hoovercj.vscode-power-mode file:///home/iujeong/.vscode-server/extensions/extensions.json
+2025-01-17 17:16:05.452 [info] [<unknown>][f2d96c6b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-17 17:16:05.487 [info] [<unknown>][7ef270cb][ExtensionHostConnection] <213516> Extension Host Process exited with code: 0, signal: null.
+2025-01-17 17:16:05.487 [info] Last EH closed, waiting before shutting down
+2025-01-17 17:16:06.289 [info] [<unknown>][78d4632f][ManagementConnection] New connection established.
+2025-01-17 17:16:06.294 [info] [<unknown>][260429d4][ExtensionHostConnection] New connection established.
+2025-01-17 17:16:06.297 [info] [<unknown>][260429d4][ExtensionHostConnection] <344727> Launched Extension Host Process.
+2025-01-17 17:16:09.096 [info] Downloaded extension to file:///home/iujeong/.vscode-server/data/CachedExtensionVSIXs/b862fbf6-4d98-472c-b969-e90aeaa80636
+2025-01-17 17:16:09.100 [info] Installing extension: ms-dotnettools.vscode-dotnet-runtime {"installOnlyNewlyAddedFromExtensionPack":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/iujeong/.vscode-server/extensions/extensions.json","external":"file:///home/iujeong/.vscode-server/extensions/extensions.json","path":"/home/iujeong/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.96.3","date":"2025-01-09T18:14:09.060Z"}}
+2025-01-17 17:16:09.129 [info] Extracted extension to file:///home/iujeong/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.5: ms-dotnettools.vscode-dotnet-runtime
+2025-01-17 17:16:09.130 [info] Renamed to /home/iujeong/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.5
+2025-01-17 17:16:09.133 [info] Extension installed successfully: ms-dotnettools.vscode-dotnet-runtime file:///home/iujeong/.vscode-server/extensions/extensions.json
+2025-01-17 17:21:05.488 [info] New EH opened, aborting shutdown
+2025-01-17 17:45:00.193 [info] [<unknown>][78d4632f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

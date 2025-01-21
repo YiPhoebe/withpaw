@@ -1,0 +1,275 @@
+Visual Studio Code (1.96.3, ssh-remote, desktop)
+Jupyter Extension Version: 2024.11.0.
+Python Extension Version: 2024.22.2.
+Pylance Extension Version: 2024.12.1.
+Platform: linux (x64).
+Temp Storage folder ~/.vscode-server/data/User/globalStorage/ms-toolsai.jupyter/version-2024.11.0
+Workspace folder /home/iujeong, Home = /home/iujeong
+11:41:47.078 [info] Starting Kernel (Python Path: /usr/bin/python3, Unknown, 3.12.3) for '~/Study/250117.ipynb' (disableUI=false)
+11:41:47.166 [warn] Failed to get activated env vars for /usr/bin/python3 in 75ms
+11:41:47.167 [warn] Failed to get activated env vars for /usr/bin/python3 in 76ms
+11:41:47.170 [info] Process Execution: /usr/bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+11:41:47.181 [info] Process Execution: /usr/bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+11:41:47.183 [info] Process Execution: /usr/bin/python3 -m pip list
+11:41:47.184 [info] Process Execution: /usr/bin/python3 -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v38100dc51925e2d77b51f9dbd56aa07493ef5ae3c.json
+    > cwd: //home/~/Study
+11:41:47.197 [info] Process Execution: /usr/bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+11:41:47.198 [error] Disposing kernel process due to an error Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+11:41:47.199 [error] Failed to connect raw kernel session: Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+11:41:47.200 [error] Failed to connect raw kernel session: Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+11:41:47.200 [warn] Failed to shutdown kernel, .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher [TypeError: Cannot read properties of undefined (reading 'dispose')
+	at $_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:13745)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async q_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:22578)]
+11:41:47.201 [warn] Error occurred while trying to start the kernel, options.disableUI=false Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+11:41:47.201 [warn] Kernel Error, context = start Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+11:41:47.204 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+11:41:47.267 [info] Check & install missing Kernel dependencies for /usr/bin/python3, ui.disabled=false for resource '~/Study/250117.ipynb'
+11:41:47.269 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+11:41:47.324 [info] Process Execution: /usr/bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+11:41:53.383 [info] Dispose Kernel '~/Study/250117.ipynb' associated with '~/Study/250117.ipynb'
+11:41:53.384 [error] Error in notebook cell execution Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+11:41:53.384 [error] Error in execution (get message for cell) Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+11:41:53.386 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+11:42:04.889 [info] Starting Kernel (Python Path: /usr/bin/python3, Unknown, 3.12.3) for '~/Study/250117.ipynb' (disableUI=false)
+11:42:04.894 [info] Process Execution: /usr/bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+11:42:04.900 [info] Process Execution: /usr/bin/python3 -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v325be5136f86c0138ec9df15dd8e10c9caa55ee85.json
+    > cwd: //home/~/Study
+11:42:04.910 [error] Disposing kernel process due to an error Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+11:42:04.910 [error] Failed to connect raw kernel session: Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+11:42:04.910 [error] Failed to connect raw kernel session: Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+11:42:04.911 [warn] Failed to shutdown kernel, .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher [TypeError: Cannot read properties of undefined (reading 'dispose')
+	at $_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:13745)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async q_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:22578)]
+11:42:04.911 [warn] Error occurred while trying to start the kernel, options.disableUI=false Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+11:42:04.911 [warn] Kernel Error, context = start Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+11:42:04.913 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+11:42:04.970 [info] Check & install missing Kernel dependencies for /usr/bin/python3, ui.disabled=false for resource '~/Study/250117.ipynb'
+11:42:04.973 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+11:42:05.037 [info] Process Execution: /usr/bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+11:42:08.032 [info] Dispose Kernel '~/Study/250117.ipynb' associated with '~/Study/250117.ipynb'
+11:42:08.032 [error] Error in notebook cell execution Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+11:42:08.032 [error] Error in execution (get message for cell) Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+11:42:08.035 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+11:45:15.867 [info] Starting Kernel (Python Path: /usr/bin/python3, Unknown, 3.12.3) for '~/Study/250117.ipynb' (disableUI=false)
+11:45:15.981 [warn] Failed to get activated env vars for /usr/bin/python3 in 97ms
+11:45:15.983 [info] Process Execution: /usr/bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+11:45:15.985 [info] Process Execution: /usr/bin/python3 -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v3ca19f92db8436e46b78ba599332ad7933a676c1f.json
+    > cwd: //home/~/Study
+11:45:15.994 [error] Disposing kernel process due to an error Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+11:45:15.995 [error] Failed to connect raw kernel session: Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+11:45:15.995 [error] Failed to connect raw kernel session: Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+11:45:15.995 [warn] Failed to shutdown kernel, .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher [TypeError: Cannot read properties of undefined (reading 'dispose')
+	at $_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:13745)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async q_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:22578)]
+11:45:15.996 [warn] Error occurred while trying to start the kernel, options.disableUI=false Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+11:45:15.996 [warn] Kernel Error, context = start Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+11:45:16.061 [warn] Failed to get activated env vars for /usr/bin/python3 in 64ms
+11:45:16.063 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+11:45:16.115 [info] Check & install missing Kernel dependencies for /usr/bin/python3, ui.disabled=false for resource '~/Study/250117.ipynb'
+11:45:16.117 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+11:45:16.171 [info] Process Execution: /usr/bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+11:45:18.783 [info] Dispose Kernel '~/Study/250117.ipynb' associated with '~/Study/250117.ipynb'
+11:45:18.784 [error] Error in notebook cell execution Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+11:45:18.784 [error] Error in execution (get message for cell) Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+11:45:18.786 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+11:45:54.976 [info] Starting Kernel (Python Path: /opt/anaconda3/envs/bogdong/bin/python, Conda, 3.12.8) for '~/Study/250117.ipynb' (disableUI=true)
+11:45:55.974 [info] Process Execution: /opt/anaconda3/envs/bogdong/bin/python -m pip list
+11:45:56.053 [info] Process Execution: /opt/anaconda3/envs/bogdong/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+11:45:56.054 [info] Process Execution: /opt/anaconda3/envs/bogdong/bin/python -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v32546f68006c1ad2d76871796c60804c31c757010.json
+    > cwd: //home/~/Study
+11:45:56.316 [info] Kernel successfully started
+11:45:56.319 [info] Process Execution: /opt/anaconda3/envs/bogdong/bin/python /home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/pythonFiles/printJupyterDataDir.py
+11:46:03.632 [warn] Cell completed with errors [iu [Error]: invalid literal for int() with base 10: '4,7'
+	at n.execute (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:297:4958)] {
+  ename: 'ValueError',
+  evalue: "invalid literal for int() with base 10: '4,7'",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mValueError\x1B[0m                                Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[1], line 1\x1B[0m\n' +
+      '\x1B[0;32m----> 1\x1B[0m num \x1B[38;5;241m=\x1B[39m \x1B[38;5;28mint\x1B[39m(\x1B[38;5;28minput\x1B[39m(\x1B[38;5;124m"\x1B[39m\x1B[38;5;124m숫자를 입력하세요: \x1B[39m\x1B[38;5;124m"\x1B[39m))\n' +
+      '\x1B[1;32m      2\x1B[0m num \x1B[38;5;241m=\x1B[39m \x1B[38;5;28msum\x1B[39m(\x1B[38;5;28mrange\x1B[39m)\n' +
+      '\x1B[1;32m      3\x1B[0m \x1B[38;5;28mprint\x1B[39m \x1B[38;5;241m=\x1B[39m num\n',
+    "\x1B[0;31mValueError\x1B[0m: invalid literal for int() with base 10: '4,7'"
+  ]
+}
+11:46:13.032 [warn] Cell completed with errors [iu [Error]: 'type' object is not iterable
+	at n.execute (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:297:4958)] {
+  ename: 'TypeError',
+  evalue: "'type' object is not iterable",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mTypeError\x1B[0m                                 Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[2], line 2\x1B[0m\n' +
+      '\x1B[1;32m      1\x1B[0m num \x1B[38;5;241m=\x1B[39m \x1B[38;5;28mint\x1B[39m(\x1B[38;5;28minput\x1B[39m(\x1B[38;5;124m"\x1B[39m\x1B[38;5;124m숫자를 입력하세요: \x1B[39m\x1B[38;5;124m"\x1B[39m))\n' +
+      '\x1B[0;32m----> 2\x1B[0m num \x1B[38;5;241m=\x1B[39m \x1B[38;5;28msum\x1B[39m(\x1B[38;5;28mrange\x1B[39m)\n' +
+      '\x1B[1;32m      3\x1B[0m \x1B[38;5;28mprint\x1B[39m \x1B[38;5;241m=\x1B[39m num\n',
+    "\x1B[0;31mTypeError\x1B[0m: 'type' object is not iterable"
+  ]
+}
+11:46:15.821 [info] Disposing request as the cell (-1) was deleted ~/Study/250117.ipynb
+11:47:31.827 [warn] Cell completed with errors [iu [Error]: 'int' object is not callable
+	at n.execute (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:297:4958)] {
+  ename: 'TypeError',
+  evalue: "'int' object is not callable",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mTypeError\x1B[0m                                 Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[5], line 3\x1B[0m\n' +
+      '\x1B[1;32m      1\x1B[0m num \x1B[38;5;241m=\x1B[39m \x1B[38;5;28mint\x1B[39m(\x1B[38;5;28minput\x1B[39m(\x1B[38;5;124m"\x1B[39m\x1B[38;5;124m숫자를 입력하세요: \x1B[39m\x1B[38;5;124m"\x1B[39m))\n' +
+      '\x1B[1;32m      2\x1B[0m num \x1B[38;5;241m=\x1B[39m \x1B[38;5;28msum\x1B[39m(\x1B[38;5;28mrange\x1B[39m(\x1B[38;5;241m1\x1B[39m, num \x1B[38;5;241m+\x1B[39m \x1B[38;5;241m1\x1B[39m))\n' +
+      '\x1B[0;32m----> 3\x1B[0m \x1B[38;5;28mprint\x1B[39m(num)\n',
+    "\x1B[0;31mTypeError\x1B[0m: 'int' object is not callable"
+  ]
+}
+11:48:40.719 [warn] Cell completed with errors [iu [Error]: 'int' object is not callable
+	at n.execute (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:297:4958)] {
+  ename: 'TypeError',
+  evalue: "'int' object is not callable",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mTypeError\x1B[0m                                 Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[6], line 3\x1B[0m\n' +
+      '\x1B[1;32m      1\x1B[0m num \x1B[38;5;241m=\x1B[39m \x1B[38;5;28mint\x1B[39m(\x1B[38;5;28minput\x1B[39m(\x1B[38;5;124m"\x1B[39m\x1B[38;5;124m숫자를 입력하세요: \x1B[39m\x1B[38;5;124m"\x1B[39m))\n' +
+      '\x1B[1;32m      2\x1B[0m result \x1B[38;5;241m=\x1B[39m \x1B[38;5;28msum\x1B[39m(\x1B[38;5;28mrange\x1B[39m(\x1B[38;5;241m1\x1B[39m, num \x1B[38;5;241m+\x1B[39m \x1B[38;5;241m1\x1B[39m))\n' +
+      '\x1B[0;32m----> 3\x1B[0m \x1B[38;5;28mprint\x1B[39m(num)\n',
+    "\x1B[0;31mTypeError\x1B[0m: 'int' object is not callable"
+  ]
+}
+11:49:15.583 [warn] Cell completed with errors [iu [Error]: 'int' object is not callable
+	at n.execute (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:297:4958)] {
+  ename: 'TypeError',
+  evalue: "'int' object is not callable",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mTypeError\x1B[0m                                 Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[7], line 3\x1B[0m\n' +
+      '\x1B[1;32m      1\x1B[0m num \x1B[38;5;241m=\x1B[39m \x1B[38;5;28mint\x1B[39m(\x1B[38;5;28minput\x1B[39m(\x1B[38;5;124m"\x1B[39m\x1B[38;5;124m숫자를 입력하세요: \x1B[39m\x1B[38;5;124m"\x1B[39m))\n' +
+      '\x1B[1;32m      2\x1B[0m result \x1B[38;5;241m=\x1B[39m \x1B[38;5;28msum\x1B[39m(\x1B[38;5;28mrange\x1B[39m(\x1B[38;5;241m1\x1B[39m, num \x1B[38;5;241m+\x1B[39m \x1B[38;5;241m1\x1B[39m))\n' +
+      '\x1B[0;32m----> 3\x1B[0m \x1B[38;5;28mprint\x1B[39m(\x1B[38;5;124mf\x1B[39m\x1B[38;5;124m"\x1B[39m\x1B[38;5;124m1부터 \x1B[39m\x1B[38;5;132;01m{\x1B[39;00mnum\x1B[38;5;132;01m}\x1B[39;00m\x1B[38;5;124m까지의 합은 \x1B[39m\x1B[38;5;132;01m{\x1B[39;00mresult\x1B[38;5;132;01m}\x1B[39;00m\x1B[38;5;124m입니다.\x1B[39m\x1B[38;5;124m"\x1B[39m)\n',
+    "\x1B[0;31mTypeError\x1B[0m: 'int' object is not callable"
+  ]
+}
+11:52:38.380 [warn] Cell completed with errors [iu [Error]: 'int' object is not callable
+	at n.execute (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:297:4958)] {
+  ename: 'TypeError',
+  evalue: "'int' object is not callable",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mTypeError\x1B[0m                                 Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[8], line 3\x1B[0m\n' +
+      '\x1B[1;32m      1\x1B[0m num \x1B[38;5;241m=\x1B[39m \x1B[38;5;28mint\x1B[39m(\x1B[38;5;28minput\x1B[39m(\x1B[38;5;124m"\x1B[39m\x1B[38;5;124m숫자를 입력하세요: \x1B[39m\x1B[38;5;124m"\x1B[39m))\n' +
+      '\x1B[1;32m      2\x1B[0m result \x1B[38;5;241m=\x1B[39m \x1B[38;5;28msum\x1B[39m(\x1B[38;5;28mrange\x1B[39m(\x1B[38;5;241m1\x1B[39m, num \x1B[38;5;241m+\x1B[39m \x1B[38;5;241m1\x1B[39m))\n' +
+      '\x1B[0;32m----> 3\x1B[0m \x1B[38;5;28mprint\x1B[39m(\x1B[38;5;124mf\x1B[39m\x1B[38;5;124m"\x1B[39m\x1B[38;5;124m1부터 \x1B[39m\x1B[38;5;132;01m{\x1B[39;00mnum\x1B[38;5;132;01m}\x1B[39;00m\x1B[38;5;124m까지의 합은 \x1B[39m\x1B[38;5;132;01m{\x1B[39;00mresult\x1B[38;5;132;01m}\x1B[39;00m\x1B[38;5;124m입니다.\x1B[39m\x1B[38;5;124m"\x1B[39m)\n',
+    "\x1B[0;31mTypeError\x1B[0m: 'int' object is not callable"
+  ]
+}
+11:53:33.937 [warn] Cell completed with errors [iu [Error]: invalid literal for int() with base 10: '\x086'
+	at n.execute (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:297:4958)] {
+  ename: 'ValueError',
+  evalue: "invalid literal for int() with base 10: '\\x086'",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mValueError\x1B[0m                                Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[9], line 1\x1B[0m\n' +
+      '\x1B[0;32m----> 1\x1B[0m num \x1B[38;5;241m=\x1B[39m \x1B[38;5;28mint\x1B[39m(\x1B[38;5;28minput\x1B[39m(\x1B[38;5;124m"\x1B[39m\x1B[38;5;124m숫자를 입력하세요: \x1B[39m\x1B[38;5;124m"\x1B[39m))\n' +
+      '\x1B[1;32m      2\x1B[0m result \x1B[38;5;241m=\x1B[39m \x1B[38;5;28msum\x1B[39m(\x1B[38;5;28mrange\x1B[39m(\x1B[38;5;241m1\x1B[39m, num \x1B[38;5;241m+\x1B[39m \x1B[38;5;241m1\x1B[39m))\n' +
+      '\x1B[1;32m      3\x1B[0m \x1B[38;5;28mprint\x1B[39m(\x1B[38;5;124mf\x1B[39m\x1B[38;5;124m"\x1B[39m\x1B[38;5;124m1부터 \x1B[39m\x1B[38;5;132;01m{\x1B[39;00mnum\x1B[38;5;132;01m}\x1B[39;00m\x1B[38;5;124m까지의 합은 \x1B[39m\x1B[38;5;132;01m{\x1B[39;00mresult\x1B[38;5;132;01m}\x1B[39;00m\x1B[38;5;124m입니다.\x1B[39m\x1B[38;5;124m"\x1B[39m)\n',
+    "\x1B[0;31mValueError\x1B[0m: invalid literal for int() with base 10: '\\x086'"
+  ]
+}
+11:53:54.499 [warn] Cell completed with errors [iu [Error]: 'int' object is not callable
+	at n.execute (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:297:4958)] {
+  ename: 'TypeError',
+  evalue: "'int' object is not callable",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mTypeError\x1B[0m                                 Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[10], line 7\x1B[0m\n' +
+      '\x1B[1;32m      5\x1B[0m number2 \x1B[38;5;241m=\x1B[39m \x1B[38;5;28mint\x1B[39m(\x1B[38;5;28minput\x1B[39m(\x1B[38;5;124m"\x1B[39m\x1B[38;5;124m두 번째 숫자를 입력하세요: \x1B[39m\x1B[38;5;124m"\x1B[39m))\n' +
+      '\x1B[1;32m      6\x1B[0m num \x1B[38;5;241m=\x1B[39m number1 \x1B[38;5;241m+\x1B[39m number2\n' +
+      '\x1B[0;32m----> 7\x1B[0m \x1B[38;5;28mprint\x1B[39m(\x1B[38;5;124mf\x1B[39m\x1B[38;5;124m"\x1B[39m\x1B[38;5;124m두 숫자의 합은: \x1B[39m\x1B[38;5;132;01m{\x1B[39;00mnum\x1B[38;5;132;01m}\x1B[39;00m\x1B[38;5;124m입니다.\x1B[39m\x1B[38;5;124m"\x1B[39m)\n',
+    "\x1B[0;31mTypeError\x1B[0m: 'int' object is not callable"
+  ]
+}
+11:54:14.651 [warn] Cell completed with errors [iu [Error]: 'int' object is not callable
+	at n.execute (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:297:4958)] {
+  ename: 'TypeError',
+  evalue: "'int' object is not callable",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mTypeError\x1B[0m                                 Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[11], line 7\x1B[0m\n' +
+      '\x1B[1;32m      5\x1B[0m number2 \x1B[38;5;241m=\x1B[39m \x1B[38;5;28mint\x1B[39m(\x1B[38;5;28minput\x1B[39m(\x1B[38;5;124m"\x1B[39m\x1B[38;5;124m두 번째 숫자를 입력하세요: \x1B[39m\x1B[38;5;124m"\x1B[39m))\n' +
+      '\x1B[1;32m      6\x1B[0m num \x1B[38;5;241m=\x1B[39m number1 \x1B[38;5;241m+\x1B[39m number2\n' +
+      '\x1B[0;32m----> 7\x1B[0m \x1B[38;5;28mprint\x1B[39m(\x1B[38;5;124mf\x1B[39m\x1B[38;5;124m"\x1B[39m\x1B[38;5;124m두 숫자의 합은: \x1B[39m\x1B[38;5;132;01m{\x1B[39;00mnum\x1B[38;5;132;01m}\x1B[39;00m\x1B[38;5;124m입니다.\x1B[39m\x1B[38;5;124m"\x1B[39m)\n',
+    "\x1B[0;31mTypeError\x1B[0m: 'int' object is not callable"
+  ]
+}
+11:58:51.164 [info] Dispose Kernel '~/Study/250117.ipynb' associated with '~/Study/250117.ipynb'
+11:58:51.164 [info] Dispose Kernel '~/Study/250117.ipynb' associated with '~/Study/250117.ipynb'
+11:58:51.164 [info] Dispose Kernel '~/Study/250117.ipynb' associated with '~/Study/250117.ipynb'
+11:58:51.164 [info] Dispose Kernel '~/Study/250117.ipynb' associated with '~/Study/250117.ipynb'

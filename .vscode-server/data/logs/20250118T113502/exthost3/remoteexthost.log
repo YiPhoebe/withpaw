@@ -1,0 +1,15 @@
+2025-01-18 11:59:01.851 [info] Extension host with pid 78160 started
+2025-01-18 11:59:02.021 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-18 11:59:02.022 [info] ExtensionService#_doActivateExtension innerlee.nvidia-smi, startup: true, activationEvent: '*'
+2025-01-18 11:59:02.022 [info] ExtensionService#_doActivateExtension mutantdino.resourcemonitor, startup: true, activationEvent: '*'
+2025-01-18 11:59:02.161 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-18 11:59:02.161 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-18 11:59:02.280 [info] Eager extensions activated
+2025-01-18 11:59:02.281 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-18 11:59:02.281 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-18 11:59:02.281 [info] ExtensionService#_doActivateExtension hoovercj.vscode-power-mode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-18 11:59:02.281 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-01-18 11:59:02.281 [info] ExtensionService#_doActivateExtension RSIP-Vision.nvidia-smi-plus, startup: false, activationEvent: 'onStartupFinished'
+2025-01-18 11:59:02.281 [info] ExtensionService#_doActivateExtension YuTengjing.vscode-colorize-plus, startup: false, activationEvent: 'onStartupFinished'
+2025-01-18 11:59:06.551 [info] Extension host terminating: received terminate message from renderer
+2025-01-18 11:59:06.557 [info] Extension host with pid 78160 exiting with code 0

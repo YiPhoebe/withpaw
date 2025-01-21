@@ -1,0 +1,27 @@
+2025-01-17 23:16:28.223 [info] Extension host with pid 46102 started
+2025-01-17 23:16:28.375 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-17 23:16:28.376 [info] ExtensionService#_doActivateExtension innerlee.nvidia-smi, startup: true, activationEvent: '*'
+2025-01-17 23:16:28.376 [info] ExtensionService#_doActivateExtension mutantdino.resourcemonitor, startup: true, activationEvent: '*'
+2025-01-17 23:16:28.549 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-17 23:16:28.549 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-17 23:16:28.687 [info] Eager extensions activated
+2025-01-17 23:16:28.687 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-17 23:16:28.687 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-17 23:16:28.687 [info] ExtensionService#_doActivateExtension hoovercj.vscode-power-mode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-17 23:16:28.687 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-01-17 23:16:28.687 [info] ExtensionService#_doActivateExtension RSIP-Vision.nvidia-smi-plus, startup: false, activationEvent: 'onStartupFinished'
+2025-01-17 23:16:28.687 [info] ExtensionService#_doActivateExtension YuTengjing.vscode-colorize-plus, startup: false, activationEvent: 'onStartupFinished'
+2025-01-17 23:16:32.170 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onWalkthrough:pythonWelcome'
+2025-01-17 23:16:32.299 [warning] Using default string since no string found in i18n bundle that has the key: Source map support is enabled in the Python Extension, this will adversely impact performance of the extension.
+2025-01-17 23:16:32.299 [warning] Using default string since no string found in i18n bundle that has the key: Disable Source Map Support
+2025-01-17 23:16:32.299 [warning] Using default string since no string found in i18n bundle that has the key: Enabling source map support in the Python Extension will adversely impact performance of the extension.
+2025-01-17 23:16:32.299 [warning] Using default string since no string found in i18n bundle that has the key: Enable and reload Window.
+2025-01-17 23:16:32.299 [warning] Using default string since no string found in i18n bundle that has the key: ▶ Launch TensorBoard Session
+2025-01-17 23:16:32.299 [warning] Using default string since no string found in i18n bundle that has the key: Launch TensorBoard session
+2025-01-17 23:16:33.451 [error] Error: Failed to resolve env "/usr/local/bin/python3"
+	at ae (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2036206)
+	at oe (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2034166)
+	at Immediate.<anonymous> (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2030460)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-01-17 23:16:52.505 [info] Extension host terminating: received terminate message from renderer
+2025-01-17 23:16:52.513 [info] Extension host with pid 46102 exiting with code 0

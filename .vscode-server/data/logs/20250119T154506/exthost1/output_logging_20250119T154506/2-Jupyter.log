@@ -1,0 +1,9 @@
+Visual Studio Code (1.96.3, ssh-remote, desktop)
+Jupyter Extension Version: 2024.11.0.
+Python Extension Version: 2024.22.2.
+Pylance Extension Version: 2024.12.1.
+Platform: linux (x64).
+Temp Storage folder ~/.vscode-server/data/User/globalStorage/ms-toolsai.jupyter/version-2024.11.0
+Workspace folder /home/iujeong, Home = /home/iujeong
+15:45:07.840 [warn] No interpreter with path /opt/anaconda3/bin/python found in Python API, will convert Uri path to string as Id /opt/anaconda3/bin/python
+15:45:07.871 [warn] No interpreter with path /opt/anaconda3/envs/bogdong/bin/python found in Python API, will convert Uri path to string as Id /opt/anaconda3/envs/bogdong/bin/python

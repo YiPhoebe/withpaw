@@ -1,0 +1,150 @@
+2025-01-21 16:50:50.810 [info] [main] 로그 수준: Info
+2025-01-21 16:50:50.810 [info] [main] "git"에서 찾은 git 유효성을 검사하는 중
+2025-01-21 16:50:50.810 [info] [main] "2.43.0"에서 git "git"을(를) 사용하는 중
+2025-01-21 16:50:50.810 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-21 16:50:50.810 [info] > git rev-parse --show-toplevel [10ms]
+2025-01-21 16:50:50.810 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 16:50:50.810 [info] > git rev-parse --show-toplevel [31ms]
+2025-01-21 16:50:50.810 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 16:50:50.838 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 16:50:50.838 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 16:50:50.842 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-21 16:50:50.842 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 16:50:50.845 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 16:50:50.845 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 16:50:50.853 [info] > git rev-parse --show-toplevel [6ms]
+2025-01-21 16:50:50.853 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 16:50:50.856 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 16:50:50.856 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 16:50:50.860 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-21 16:50:50.860 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 16:50:50.863 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 16:50:50.863 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 16:50:50.868 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-21 16:50:50.868 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 16:50:50.872 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-21 16:50:50.872 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 16:50:50.876 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 16:50:50.876 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 16:50:50.882 [info] > git rev-parse --show-toplevel [4ms]
+2025-01-21 16:50:50.882 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 16:50:50.887 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-21 16:50:50.887 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 16:50:50.892 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-21 16:50:50.892 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 16:50:50.893 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-21 16:50:51.834 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 16:50:51.834 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:01:31.676 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 17:01:31.676 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:01:33.234 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 17:01:33.234 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:01:41.907 [info] > git rev-parse --show-toplevel [0ms]
+2025-01-21 17:01:41.907 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:03:20.456 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-21 17:03:20.456 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:03:32.873 [info] > git rev-parse --show-toplevel [0ms]
+2025-01-21 17:03:32.874 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:03:36.282 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 17:03:36.282 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:04:04.206 [info] > git rev-parse --show-toplevel [0ms]
+2025-01-21 17:04:04.206 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:11:13.229 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 17:11:13.229 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:11:28.152 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-21 17:11:28.152 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:11:36.069 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 17:11:36.069 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:14:41.699 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 17:14:41.699 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:14:53.330 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 17:14:53.330 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:15:17.952 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 17:15:17.952 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:15:22.266 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 17:15:22.266 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:15:29.730 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 17:15:29.730 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:15:32.896 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 17:15:32.896 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:15:58.512 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 17:15:58.512 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:17:05.085 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 17:17:05.085 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:17:13.609 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 17:17:13.609 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:17:19.448 [info] > git rev-parse --show-toplevel [0ms]
+2025-01-21 17:17:19.448 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:17:34.015 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 17:17:34.015 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-21 17:33:17.753 [info] > git init -b main [12ms]
+2025-01-21 17:33:17.756 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-21 17:33:17.758 [info] > git rev-parse --git-dir --git-common-dir [0ms]
+2025-01-21 17:33:17.762 [info] [Model][openRepository] Opened repository: /home/iujeong
+2025-01-21 17:33:17.766 [info] [Git][getRemotes] No remotes found in the git config file
+2025-01-21 17:33:17.766 [info] > git config --get commit.template [2ms]
+2025-01-21 17:33:17.766 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2025-01-21 17:33:17.766 [warning] [Git][getBranch] No such branch: main
+2025-01-21 17:33:17.771 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2025-01-21 17:33:17.809 [info] > git status -z -uall [41ms] (cancelled)
+2025-01-21 17:33:18.121 [info] > git show --textconv :project/withpaw/static/style.css [3ms]
+2025-01-21 17:33:18.121 [info] > git ls-files --stage -- /home/iujeong/project/withpaw/static/style.css [1ms]
+2025-01-21 17:33:18.337 [info] > git check-ignore -v -z --stdin [0ms]
+2025-01-21 17:33:19.132 [info] > git ls-files --stage -- /home/iujeong/project/withpaw/static/style.css [1ms]
+2025-01-21 17:33:19.141 [info] > git show --textconv :project/withpaw/static/style.css [1ms]
+2025-01-21 17:33:26.420 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-01-21 17:33:26.420 [warning] [Git][getBranch] No such branch: main
+2025-01-21 17:33:26.421 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.
+2025-01-21 17:33:26.421 [info] > git config --get commit.template [1ms]
+2025-01-21 17:33:26.424 [info] [Git][getRemotes] No remotes found in the git config file
+2025-01-21 17:33:26.424 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2025-01-21 17:33:26.424 [warning] [Git][getBranch] No such branch: main
+2025-01-21 17:33:26.429 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [0ms]
+2025-01-21 17:33:26.447 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [4ms]
+2025-01-21 17:33:26.447 [info] fatal: bad revision 'refs/heads/main'
+2025-01-21 17:33:26.447 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2025-01-21 17:33:26.510 [info] > git status -z -uall [84ms] (cancelled)
+2025-01-21 17:33:27.782 [info] > git check-ignore -v -z --stdin [1ms]
+2025-01-21 17:33:32.389 [info] > git check-ignore -v -z --stdin [1ms]
+2025-01-21 17:33:33.522 [info] > git check-ignore -v -z --stdin [1ms]
+2025-01-21 17:33:55.045 [info] > git add -A -- . [8139ms]
+2025-01-21 17:33:55.045 [info] warning: in the working copy of '.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/node_modules/@aminya/node-gyp-build/LICENSE', CRLF will be replaced by LF the next time Git touches it
+warning: in the working copy of '.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/node_modules/@aminya/node-gyp-build/README.md', CRLF will be replaced by LF the next time Git touches it
+2025-01-21 17:33:55.230 [info] > git -c user.useConfigOnly=true commit --quiet [182ms]
+2025-01-21 17:33:55.231 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2025-01-21 17:33:55.234 [info] > git config --get-all user.name [0ms]
+2025-01-21 17:33:55.237 [info] [Git][getRemotes] No remotes found in the git config file
+2025-01-21 17:33:55.239 [info] > git config --get commit.template [2ms]
+2025-01-21 17:33:55.239 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2025-01-21 17:33:55.240 [warning] [Git][getBranch] No such branch: main
+2025-01-21 17:33:55.244 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2025-01-21 17:33:55.322 [info] > git status -z -uall [81ms] (cancelled)
+2025-01-21 17:33:56.819 [info] > git ls-files --stage -- /home/iujeong/project/withpaw/static/style.css [4ms]
+2025-01-21 17:33:56.822 [info] > git cat-file -s 8303fab2b40e1726e8f3e5e055966d03c41d1b5e [1ms]
+2025-01-21 17:33:56.835 [info] > git show --textconv :project/withpaw/static/style.css [3ms]
+2025-01-21 17:35:44.904 [info] > git ls-files --stage -- /home/iujeong/project/withpaw/static/style.css [3ms]
+2025-01-21 17:35:44.906 [info] > git cat-file -s 8303fab2b40e1726e8f3e5e055966d03c41d1b5e [0ms]
+2025-01-21 17:35:44.916 [info] > git show --textconv :project/withpaw/static/style.css [3ms]
+2025-01-21 17:36:32.861 [info] > git ls-files --stage -- /home/iujeong/project/withpaw/static/style.css [3ms]
+2025-01-21 17:36:32.864 [info] > git cat-file -s 8303fab2b40e1726e8f3e5e055966d03c41d1b5e [1ms]
+2025-01-21 17:36:32.877 [info] > git show --textconv :project/withpaw/static/style.css [3ms]
+2025-01-21 17:36:44.039 [info] > git ls-files --stage -- /home/iujeong/project/withpaw/static/style.css [3ms]
+2025-01-21 17:36:44.042 [info] > git cat-file -s 8303fab2b40e1726e8f3e5e055966d03c41d1b5e [1ms]
+2025-01-21 17:36:44.054 [info] > git show --textconv :project/withpaw/static/style.css [3ms]

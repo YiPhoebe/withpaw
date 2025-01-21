@@ -1,0 +1,269 @@
+Visual Studio Code (1.96.3, ssh-remote, desktop)
+Jupyter Extension Version: 2024.11.0.
+Python Extension not installed.
+Pylance Extension not installed.
+Platform: linux (x64).
+Temp Storage folder ~/.vscode-server/data/User/globalStorage/ms-toolsai.jupyter/version-2024.11.0
+Workspace folder /home/iujeong, Home = /home/iujeong
+21:01:42.471 [info] Starting Kernel (Python Path: /usr/bin/python3, Unknown, 3.12.3) for '~/Study/25.01.17.ipynb' (disableUI=true)
+21:01:42.475 [warn] Failed to get activated env vars for /usr/bin/python3 in 63ms
+21:01:42.484 [info] Process Execution: /usr/bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+21:01:42.492 [info] Process Execution: /usr/bin/python3 -m pip list
+21:01:42.505 [info] Process Execution: /usr/bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:01:42.537 [warn] Failed to get activated env vars for /usr/bin/python3 in 58ms
+21:01:42.539 [info] Process Execution: /usr/bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+21:01:42.541 [info] Process Execution: /usr/bin/python3 -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v36939a6c30976b89639b6c004f6cdae951f368e8c.json
+    > cwd: //home/~/Study
+21:01:42.549 [error] Disposing kernel process due to an error Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:01:42.551 [error] Failed to connect raw kernel session: Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+21:01:42.551 [error] Failed to connect raw kernel session: Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+21:01:42.551 [warn] Failed to shutdown kernel, .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher [TypeError: Cannot read properties of undefined (reading 'dispose')
+	at $_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:13745)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async q_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:22578)]
+21:01:42.551 [warn] Error occurred while trying to start the kernel, options.disableUI=true Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:05:20.105 [info] Starting Kernel (Python Path: /usr/bin/python3, Unknown, 3.12.3) for '~/Study/25.01.17.ipynb' (disableUI=false)
+21:05:20.291 [warn] Failed to get activated env vars for /usr/bin/python3 in 170ms
+21:05:20.294 [info] Process Execution: /usr/bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+21:05:20.295 [info] Process Execution: /usr/bin/python3 -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v3e75f0a46f488433a17b29b275b8c2881294bfb59.json
+    > cwd: //home/~/Study
+21:05:20.307 [error] Disposing kernel process due to an error Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:05:20.308 [error] Failed to connect raw kernel session: Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+21:05:20.308 [error] Failed to connect raw kernel session: Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+21:05:20.309 [warn] Failed to shutdown kernel, .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher [TypeError: Cannot read properties of undefined (reading 'dispose')
+	at $_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:13745)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async q_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:22578)]
+21:05:20.310 [warn] Error occurred while trying to start the kernel, options.disableUI=false Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:05:20.310 [warn] Kernel Error, context = start Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:05:20.347 [warn] Failed to get activated env vars for /usr/bin/python3 in 36ms
+21:05:20.349 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:05:20.399 [info] Check & install missing Kernel dependencies for /usr/bin/python3, ui.disabled=false for resource '~/Study/25.01.17.ipynb'
+21:05:20.401 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:05:20.454 [info] Process Execution: /usr/bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:05:37.132 [info] Process Execution: /usr/bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:05:41.453 [info] Dispose Kernel '~/Study/25.01.17.ipynb' associated with '~/Study/25.01.17.ipynb'
+21:05:41.454 [error] Error in notebook cell execution Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:05:41.454 [error] Error in execution (get message for cell) Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:05:41.456 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:06:06.645 [info] Starting Kernel (Python Path: /usr/bin/python3, Unknown, 3.12.3) for '~/Study/25.01.17.ipynb' (disableUI=false)
+21:06:06.650 [info] Process Execution: /usr/bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+21:06:06.654 [info] Process Execution: /usr/bin/python3 -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v36ef395ea1f50eb32d7ab17f8dd57bc9fb02d5288.json
+    > cwd: //home/~/Study
+21:06:06.663 [error] Disposing kernel process due to an error Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:06:06.664 [error] Failed to connect raw kernel session: Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+21:06:06.664 [error] Failed to connect raw kernel session: Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+21:06:06.664 [warn] Failed to shutdown kernel, .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher [TypeError: Cannot read properties of undefined (reading 'dispose')
+	at $_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:13745)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async q_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:22578)]
+21:06:06.664 [warn] Error occurred while trying to start the kernel, options.disableUI=false Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:06:06.665 [warn] Kernel Error, context = start Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:06:06.667 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:06:06.726 [info] Check & install missing Kernel dependencies for /usr/bin/python3, ui.disabled=false for resource '~/Study/25.01.17.ipynb'
+21:06:06.729 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:06:06.787 [info] Process Execution: /usr/bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:06:13.009 [info] Dispose Kernel '~/Study/25.01.17.ipynb' associated with '~/Study/25.01.17.ipynb'
+21:06:13.009 [error] Error in notebook cell execution Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:06:13.010 [error] Error in execution (get message for cell) Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:06:13.012 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:06:38.975 [info] Starting Kernel (Python Path: /usr/bin/python3, Unknown, 3.12.3) for '~/Study/25.01.17.ipynb' (disableUI=false)
+21:06:39.075 [warn] Failed to get activated env vars for /usr/bin/python3 in 99ms
+21:06:39.078 [info] Process Execution: /usr/bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+21:06:39.079 [info] Process Execution: /usr/bin/python3 -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v37de025ff7b705744c66c2e4dc1d37844c44e23b9.json
+    > cwd: //home/~/Study
+21:06:39.089 [error] Disposing kernel process due to an error Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:06:39.089 [error] Failed to connect raw kernel session: Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+21:06:39.089 [error] Failed to connect raw kernel session: Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+21:06:39.089 [warn] Failed to shutdown kernel, .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher [TypeError: Cannot read properties of undefined (reading 'dispose')
+	at $_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:13745)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async q_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:22578)]
+21:06:39.090 [warn] Error occurred while trying to start the kernel, options.disableUI=false Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:06:39.090 [warn] Kernel Error, context = start Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:06:39.130 [warn] Failed to get activated env vars for /usr/bin/python3 in 40ms
+21:06:39.133 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:06:39.193 [info] Check & install missing Kernel dependencies for /usr/bin/python3, ui.disabled=false for resource '~/Study/25.01.17.ipynb'
+21:06:39.196 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:06:39.259 [info] Process Execution: /usr/bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:06:41.848 [info] Dispose Kernel '~/Study/25.01.17.ipynb' associated with '~/Study/25.01.17.ipynb'
+21:06:55.307 [info] Interrupt requested & no kernel.
+21:07:13.345 [info] Interrupt requested & no kernel.
+21:07:14.530 [info] Interrupt requested & no kernel.
+21:07:15.191 [info] Interrupt requested & no kernel.
+21:07:15.554 [info] Interrupt requested & no kernel.
+21:07:15.842 [info] Interrupt requested & no kernel.
+21:07:17.791 [info] Interrupt requested & no kernel.
+21:07:17.978 [info] Interrupt requested & no kernel.
+21:07:42.164 [info] Starting Kernel (Python Path: /usr/bin/python3, Unknown, 3.12.3) for '~/Study/25.01.17.ipynb' (disableUI=true)
+21:07:42.370 [warn] Failed to get activated env vars for /usr/bin/python3 in 190ms
+21:07:42.372 [info] Process Execution: /usr/bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+21:07:42.373 [info] Process Execution: /usr/bin/python3 -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v3e85c15f0e26e02b9f9b0345362712cc58a86c545.json
+    > cwd: //home/~/Study
+21:07:42.374 [warn] Failed to get activated env vars for /usr/bin/python3 in 195ms
+21:07:42.376 [info] Process Execution: /usr/bin/python3 -m pip list
+21:07:42.382 [error] Disposing kernel process due to an error Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:07:42.382 [error] Failed to connect raw kernel session: Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+21:07:42.382 [error] Failed to connect raw kernel session: Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+21:07:42.382 [warn] Failed to shutdown kernel, .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher [TypeError: Cannot read properties of undefined (reading 'dispose')
+	at $_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:13745)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async q_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:22578)]
+21:07:42.383 [warn] Error occurred while trying to start the kernel, options.disableUI=true Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:07:42.386 [info] Process Execution: /usr/bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:07:44.971 [info] Starting Kernel (Python Path: /usr/bin/python3, Unknown, 3.12.3) for '~/Study/25.01.17.ipynb' (disableUI=false)
+21:07:44.974 [info] Process Execution: /usr/bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+21:07:44.979 [info] Process Execution: /usr/bin/python3 -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v3a1975115ac82781eaaf078382a8bef0ccf4a172c.json
+    > cwd: //home/~/Study
+21:07:44.987 [error] Disposing kernel process due to an error Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:07:44.987 [error] Failed to connect raw kernel session: Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+21:07:44.987 [error] Failed to connect raw kernel session: Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+21:07:44.987 [warn] Failed to shutdown kernel, .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher [TypeError: Cannot read properties of undefined (reading 'dispose')
+	at $_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:13745)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async q_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:22578)]
+21:07:44.988 [warn] Error occurred while trying to start the kernel, options.disableUI=false Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:07:44.988 [warn] Kernel Error, context = start Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:07:44.990 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:07:45.047 [info] Check & install missing Kernel dependencies for /usr/bin/python3, ui.disabled=false for resource '~/Study/25.01.17.ipynb'
+21:07:45.050 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:07:45.102 [info] Process Execution: /usr/bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:07:49.059 [info] Process Execution: /usr/bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:07:51.283 [info] Dispose Kernel '~/Study/25.01.17.ipynb' associated with '~/Study/25.01.17.ipynb'
+21:07:51.284 [error] Error in notebook cell execution Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:07:51.284 [error] Error in execution (get message for cell) Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:07:51.292 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:08:06.261 [info] Starting Kernel (Python Path: /usr/bin/python3, Unknown, 3.12.3) for '~/Study/25.01.17.ipynb' (disableUI=false)
+21:08:06.264 [info] Process Execution: /usr/bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+21:08:06.269 [info] Process Execution: /usr/bin/python3 -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v3acd26039232527a6b005df99d1e39f699d56d302.json
+    > cwd: //home/~/Study
+21:08:06.279 [error] Disposing kernel process due to an error Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:08:06.279 [error] Failed to connect raw kernel session: Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+21:08:06.279 [error] Failed to connect raw kernel session: Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+21:08:06.279 [warn] Failed to shutdown kernel, .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher [TypeError: Cannot read properties of undefined (reading 'dispose')
+	at $_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:13745)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async q_.shutdown (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:304:22578)]
+21:08:06.280 [warn] Error occurred while trying to start the kernel, options.disableUI=false Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:08:06.280 [warn] Kernel Error, context = start Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:08:06.282 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:08:06.344 [info] Check & install missing Kernel dependencies for /usr/bin/python3, ui.disabled=false for resource '~/Study/25.01.17.ipynb'
+21:08:06.346 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:08:06.409 [info] Process Execution: /usr/bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:08:08.694 [info] Dispose Kernel '~/Study/25.01.17.ipynb' associated with '~/Study/25.01.17.ipynb'
+21:08:08.694 [error] Error in notebook cell execution Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:08:08.694 [error] Error in execution (get message for cell) Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+    > Kernel Id = .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /usr/bin/python3
+    > at ChildProcess.<anonymous> (/home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+    > stdErr = /usr/bin/python3: No module named ipykernel_launcher
+21:08:08.697 [info] Process Execution: /usr/bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+21:08:49.695 [info] Dispose Kernel '~/Study/25.01.17.ipynb' associated with '~/Study/25.01.17.ipynb'
+21:08:49.695 [info] Dispose Kernel '~/Study/25.01.17.ipynb' associated with '~/Study/25.01.17.ipynb'
+21:08:49.695 [info] Dispose Kernel '~/Study/25.01.17.ipynb' associated with '~/Study/25.01.17.ipynb'
+21:08:49.695 [info] Dispose Kernel '~/Study/25.01.17.ipynb' associated with '~/Study/25.01.17.ipynb'
+21:08:49.695 [info] Dispose Kernel '~/Study/25.01.17.ipynb' associated with '~/Study/25.01.17.ipynb'

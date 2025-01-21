@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>로그인</title>
+</head>
+<body>
+    <h2>로그인</h2>
+    <form method="post" action="{{ url_for('login_page') }}">
+        <label for="username">아이디:</label>
+        <input type="text" id="username" name="username" required>
+        <br>
+        <label for="password">비밀번호:</label>
+        <input type="password" id="password" name="password" required>
+        <br>
+        <button type="submit">로그인</button>
+    </form>
+    {% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}
+        <ul>
+        {% for category, message in messages %}
+            <li class="{{ category }}">{{ message }}</li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+    {% endwith %}
+</body>
+</html>
