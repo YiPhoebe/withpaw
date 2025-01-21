@@ -1,8 +1,0 @@
-{
-    "files.exclude": {
-        "**/.cache": true,
-        "**/.conda": true,
-        "**/.dotnet": true,
-        "**/.ipython": true
-    }
-}

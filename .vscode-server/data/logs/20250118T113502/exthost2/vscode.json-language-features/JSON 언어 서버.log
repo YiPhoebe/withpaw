@@ -1,8 +1,0 @@
-2025-01-18 11:42:56.329 [info] l10n: Problems loading vscode-local:/Users/iujeong/.vscode/extensions/ms-ceintl.vscode-language-pack-ko-1.96.2024121109/translations/extensions/vscode.json-language-features.i18n.json : Error: Unsupported protocol
-2025-01-18 11:44:14.918 [info] read schema from vscode: vscode://schemas/vscode-extensions
-2025-01-18 11:44:14.999 [info] read schema from vscode: vscode://schemas/toolsParameters
-2025-01-18 11:44:14.999 [info] read schema from vscode: vscode://schemas/settings/configurationDefaults
-2025-01-18 11:44:15.173 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
-2025-01-18 11:44:15.176 [info] read schema from vscode: vscode://schemas/token-styling
-2025-01-18 11:44:15.176 [info] read schema from vscode: vscode://schemas/textmate-colors
-2025-01-18 11:44:15.176 [info] read schema from vscode: vscode://schemas/workbench-colors

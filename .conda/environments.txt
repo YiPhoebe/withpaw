@@ -1,2 +1,0 @@
-/opt/anaconda3/envs/bogdong
-/opt/anaconda3
