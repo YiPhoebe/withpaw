@@ -1,0 +1,5 @@
+2025-01-18 12:05:29.542 [info] [main] 로그 수준: Info
+2025-01-18 12:05:29.542 [info] [main] "git"에서 찾은 git 유효성을 검사하는 중
+2025-01-18 12:05:29.542 [info] [main] "2.43.0"에서 git "git"을(를) 사용하는 중
+2025-01-18 12:05:29.542 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-18 12:05:29.542 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)

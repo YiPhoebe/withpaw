@@ -1,0 +1,29 @@
+2025-01-19 15:45:06.078 [info] 
+
+
+
+
+2025-01-19 15:45:06.082 [info] Extension host agent started.
+2025-01-19 15:45:06.134 [info] [<unknown>][2a32f1cd][ManagementConnection] New connection established.
+2025-01-19 15:45:06.151 [info] [<unknown>][8ce3b4c1][ExtensionHostConnection] New connection established.
+2025-01-19 15:45:06.666 [info] [<unknown>][8ce3b4c1][ExtensionHostConnection] <7996> Launched Extension Host Process.
+2025-01-19 15:45:06.683 [info] [<unknown>][8ce3b4c1][ExtensionHostConnection] <7996><stderr> Error reading NLS messages file /home/iujeong/.vscode-server/data/clp/0d8c6eb27ebf0819b0f03bef87650722.ko/91fbdddc47bc9c09064bf7acf133d22631cbf083/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/iujeong/.vscode-server/data/clp/0d8c6eb27ebf0819b0f03bef87650722.ko/91fbdddc47bc9c09064bf7acf133d22631cbf083/nls.messages.json'
+
+2025-01-19 15:50:06.082 [info] New EH opened, aborting shutdown
+2025-01-19 18:06:13.050 [info] [<unknown>][2a32f1cd][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-01-19 18:06:13.051 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/server/out/server-main.js:184:1060)
+    at process.emit (node:events:530:35)
+2025-01-19 19:08:49.560 [info] [<unknown>][2a32f1cd][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-01-19 19:08:49.561 [info] [<unknown>][cd00aae0][ManagementConnection] New connection established.
+2025-01-19 19:08:49.591 [info] [<unknown>][7bfdd667][ExtensionHostConnection] New connection established.
+2025-01-19 19:08:49.593 [info] [<unknown>][7bfdd667][ExtensionHostConnection] <54900> Launched Extension Host Process.
+2025-01-19 19:08:49.612 [info] [<unknown>][7bfdd667][ExtensionHostConnection] <54900><stderr> Error reading NLS messages file /home/iujeong/.vscode-server/data/clp/0d8c6eb27ebf0819b0f03bef87650722.ko/91fbdddc47bc9c09064bf7acf133d22631cbf083/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/iujeong/.vscode-server/data/clp/0d8c6eb27ebf0819b0f03bef87650722.ko/91fbdddc47bc9c09064bf7acf133d22631cbf083/nls.messages.json'
+
+2025-01-19 19:13:49.755 [info] [<unknown>][2a32f1cd][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2025-01-19 19:13:49.822 [info] [<unknown>][8ce3b4c1][ExtensionHostConnection] <7996> Extension Host Process exited with code: 0, signal: null.
+2025-01-19 19:30:46.137 [info] [<unknown>][cd00aae0][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-01-19 22:30:21.364 [info] [<unknown>][7bfdd667][ExtensionHostConnection] <54900> Extension Host Process exited with code: 0, signal: null.
+2025-01-19 22:30:21.364 [info] Last EH closed, waiting before shutting down
+2025-01-19 22:30:52.399 [info] [<unknown>][cd00aae0][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+2025-01-19 22:35:21.366 [info] Last EH closed, shutting down

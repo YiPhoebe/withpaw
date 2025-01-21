@@ -1,0 +1,17 @@
+2025-01-17 21:42:32.298 [info] 실험 'pythonRecommendTensorboardExt'이(가) 활성 상태입니다.
+2025-01-17 21:42:32.298 [info] 실험 'pythonTerminalEnvVarActivation'이(가) 활성 상태입니다.
+2025-01-17 21:42:32.298 [info] 실험 'pythonTestAdapter'이(가) 활성 상태입니다.
+2025-01-17 21:42:32.298 [info] Native locator: Refresh started
+2025-01-17 21:42:32.298 [info] Native locator: Refresh started
+2025-01-17 21:42:32.300 [info] Conda environment manager found at: /opt/anaconda3/bin/conda
+2025-01-17 21:42:32.308 [info] Native locator: Refresh finished in 153 ms
+2025-01-17 21:42:32.315 [info] Python 인터프리터 경로: /bin/python3
+2025-01-17 21:42:32.352 [info] > pyenv which python
+2025-01-17 21:42:32.352 [info] cwd: .
+2025-01-17 21:42:33.461 [info] Pylance 언어 서버를 시작하는 중입니다.
+2025-01-17 21:42:33.531 [info] Python 인터프리터 경로: /usr/bin/python3
+2025-01-17 21:42:33.730 [info] > /opt/anaconda3/bin/conda info --json
+2025-01-17 22:14:52.533 [info] Native locator: Refresh started
+2025-01-17 22:14:52.545 [info] Conda environment manager found at: /opt/anaconda3/bin/conda
+2025-01-17 22:14:52.646 [info] Native locator: Refresh finished in 113 ms
+2025-01-17 22:15:53.802 [info] Discover tests for workspace name: iujeong - uri: /home/iujeong/Study/25.01.17.py

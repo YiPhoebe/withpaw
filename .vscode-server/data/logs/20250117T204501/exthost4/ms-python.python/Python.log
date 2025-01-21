@@ -1,0 +1,62 @@
+2025-01-17 21:11:15.119 [info] 실험 'pythonRecommendTensorboardExt'이(가) 활성 상태입니다.
+2025-01-17 21:11:15.119 [info] 실험 'pythonTerminalEnvVarActivation'이(가) 활성 상태입니다.
+2025-01-17 21:11:15.119 [info] 실험 'pythonTestAdapter'이(가) 활성 상태입니다.
+2025-01-17 21:11:15.119 [info] Native locator: Refresh started
+2025-01-17 21:11:15.119 [info] Native locator: Refresh started
+2025-01-17 21:11:15.119 [info] Conda environment manager found at: /opt/anaconda3/bin/conda
+2025-01-17 21:11:15.200 [info] > /opt/anaconda3/bin/conda info --json
+2025-01-17 21:11:15.229 [error] [
+  'getActivatedEnvironmentVariables, Class name = M, completed in 86ms, has a falsy return value, Arg 1: undefined, Arg 2: undefined, Arg 3: undefined, Arg 4: "/bin/bash"',
+  [l [Error]: Failed to resolve env "/usr/local/bin/python3"
+  	at ae (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2036206)
+  	at oe (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2034166)
+  	at Immediate.<anonymous> (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2030460)
+  	at process.processImmediate (node:internal/timers:483:21)] {
+    code: -4,
+    data: undefined
+  }
+]
+2025-01-17 21:11:15.229 [error] Failed to apply terminal env vars undefined [l [Error]: Failed to resolve env "/usr/local/bin/python3"
+	at ae (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2036206)
+	at oe (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2034166)
+	at Immediate.<anonymous> (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2030460)
+	at process.processImmediate (node:internal/timers:483:21)] {
+  code: -4,
+  data: undefined
+}
+2025-01-17 21:11:15.229 [error] Python Extension: interpreterManager.refresh [l [Error]: Failed to resolve env "/usr/local/bin/python3"
+	at ae (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2036206)
+	at oe (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2034166)
+	at Immediate.<anonymous> (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2030460)
+	at process.processImmediate (node:internal/timers:483:21)] {
+  code: -4,
+  data: undefined
+}
+2025-01-17 21:11:15.229 [error] [
+  'Failed to activate a workspace, Class name = v, completed in 263ms, has a falsy return value, Arg 1: undefined, Arg 2: {"started":1737115874892}, Return Value: undefined',
+  [l [Error]: Failed to resolve env "/usr/local/bin/python3"
+  	at ae (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2036206)
+  	at oe (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2034166)
+  	at Immediate.<anonymous> (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2030460)
+  	at process.processImmediate (node:internal/timers:483:21)] {
+    code: -4,
+    data: undefined
+  }
+]
+2025-01-17 21:11:15.229 [error] Failure during activation. [l [Error]: Failed to resolve env "/usr/local/bin/python3"
+	at ae (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2036206)
+	at oe (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2034166)
+	at Immediate.<anonymous> (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2030460)
+	at process.processImmediate (node:internal/timers:483:21)] {
+  code: -4,
+  data: undefined
+}
+2025-01-17 21:11:15.229 [error] sendStartupTelemetry() failed. [l [Error]: Failed to resolve env "/usr/local/bin/python3"
+	at ae (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2036206)
+	at oe (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2034166)
+	at Immediate.<anonymous> (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2030460)
+	at process.processImmediate (node:internal/timers:483:21)] {
+  code: -4,
+  data: undefined
+}
+2025-01-17 21:11:15.238 [info] Native locator: Refresh finished in 335 ms

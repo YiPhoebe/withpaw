@@ -1,0 +1,20 @@
+2025-01-19 14:12:49.007 [info] [Info  - 오후 2:12:49] (294866) Server root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-19 14:12:49.008 [info] [Info  - 오후 2:12:49] (294866) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2025-01-19 14:12:49.013 [info] [Info  - 오후 2:12:49] (294866) Starting service instance "iujeong"
+2025-01-19 14:12:49.029 [info] [Info  - 오후 2:12:49] (294866) Setting environmentName for service "iujeong": "3.12.3 (글로벌)"
+2025-01-19 14:12:49.030 [info] [Info  - 오후 2:12:49] (294866) Setting pythonPath for service "iujeong": "/bin/python3"
+2025-01-19 14:12:49.030 [info] [Info  - 오후 2:12:49] (294866) No include entries specified; assuming /home/iujeong
+2025-01-19 14:12:49.030 [info] [Info  - 오후 2:12:49] (294866) Auto-excluding **/node_modules
+2025-01-19 14:12:49.031 [info] [Info  - 오후 2:12:49] (294866) Auto-excluding **/__pycache__
+2025-01-19 14:12:49.031 [info] [Info  - 오후 2:12:49] (294866) Auto-excluding **/.*
+2025-01-19 14:12:49.046 [info] [Info  - 오후 2:12:49] (294866) Assuming Python version 3.12.3.final.0
+2025-01-19 14:12:49.085 [info] [Info  - 오후 2:12:49] (294866) Found 5 source files
+2025-01-19 14:12:49.232 [info] [Info  - 오후 2:12:49] (294866) Background analysis(1) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-19 14:12:49.233 [info] [Info  - 오후 2:12:49] (294866) Background analysis(1) started
+2025-01-19 14:12:49.289 [info] [Info  - 오후 2:12:49] (294866) Indexer background runner(2) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-19 14:12:49.289 [info] [Info  - 오후 2:12:49] (294866) Indexing(2) started
+2025-01-19 14:12:49.443 [info] [Info  - 오후 2:12:49] (294866) scanned(2) 97 files over 1 exec env
+2025-01-19 14:12:49.518 [info] [Info  - 오후 2:12:49] (294866) indexed(2) 97 files over 1 exec env
+2025-01-19 14:12:49.534 [info] [Info  - 오후 2:12:49] (294866) Indexing finished(2).
+2025-01-19 14:12:59.127 [info] (Client) The existing extension didn't exit within 10 seconds. New instance will start, but you might encounter issues.
+2025-01-19 14:12:59.127 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.2)

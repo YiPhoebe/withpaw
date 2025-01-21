@@ -1,0 +1,70 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "\n",
+    "import sqlite3\n",
+    "\n",
+    "# 데이터베이스 초기화 함수 정의\n",
+    "def initialize_database():\n",
+    "    conn = sqlite3.connect('withpaw.db')  # SQLite 데이터베이스 파일 연결\n",
+    "    cursor = conn.cursor()\n",
+    "\n",
+    "    # 사용자 프로필 테이블 생성\n",
+    "    cursor.execute(\"\"\"CREATE TABLE IF NOT EXISTS user_profile (\n",
+    "        id INTEGER PRIMARY KEY AUTOINCREMENT,  -- 사용자 ID (자동 증가)\n",
+    "        username TEXT NOT NULL UNIQUE,         -- 사용자 아이디 (고유값, 중복 불가)\n",
+    "        password TEXT NOT NULL,                -- 사용자 비밀번호 (필수)\n",
+    "        name TEXT,                             -- 사용자 이름\n",
+    "        email TEXT                             -- 사용자 이메일 (선택)\n",
+    "    )\"\"\")\n",
+    "\n",
+    "    # 반려동물 정보 테이블 생성\n",
+    "    cursor.execute(\"\"\"CREATE TABLE IF NOT EXISTS pets (\n",
+    "        id INTEGER PRIMARY KEY AUTOINCREMENT,  -- 반려동물 ID (자동 증가)\n",
+    "        name TEXT NOT NULL,                    -- 반려동물 이름\n",
+    "        age INTEGER,                           -- 반려동물 나이\n",
+    "        species TEXT,                          -- 반려동물 종 (예: 강아지, 고양이)\n",
+    "        breed TEXT,                            -- 반려동물 품종\n",
+    "        family_id INTEGER,                     -- 반려동물 가족 ID (user_profile와 연결)\n",
+    "        FOREIGN KEY(family_id) REFERENCES user_profile(id)  -- 외래 키 설정\n",
+    "    )\"\"\")\n",
+    "\n",
+    "    conn.commit()  # 변경 사항 저장\n",
+    "    conn.close()   # 데이터베이스 연결 종료\n",
+    "    print(\"데이터베이스와 테이블이 성공적으로 생성되었습니다!\")\n",
+    "\n",
+    "# 데이터베이스 초기화 함수 (테이블 삭제 후 재생성)\n",
+    "def reset_database():\n",
+    "    conn = sqlite3.connect('withpaw.db')  # SQLite 데이터베이스 파일 연결\n",
+    "    cursor = conn.cursor()\n",
+    "\n",
+    "    # 기존 테이블 삭제\n",
+    "    cursor.execute(\"DROP TABLE IF EXISTS user_profile\")\n",
+    "    cursor.execute(\"DROP TABLE IF EXISTS pets\")\n",
+    "\n",
+    "    # 데이터베이스 재초기화\n",
+    "    initialize_database()\n",
+    "    print(\"데이터베이스가 성공적으로 초기화되었습니다.\")\n",
+    "\n",
+    "    conn.close()\n",
+    "\n",
+    "    # 데이터베이스 초기화 함수 정의\n",
+    "def initialize_database():\n",
+    "    # 데이터베이스 초기화 코드\n",
+    "    pass\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "language_info": {
+   "name": "python"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}

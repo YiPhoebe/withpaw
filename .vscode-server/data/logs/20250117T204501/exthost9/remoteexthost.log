@@ -1,0 +1,64 @@
+2025-01-17 22:20:42.883 [info] Extension host with pid 31786 started
+2025-01-17 22:20:42.891 [info] Lock '/home/iujeong/.vscode-server/data/User/workspaceStorage/d93eea3a3c3f435b3cabd9cc82da6704/vscode.lock': Lock acquired.
+2025-01-17 22:20:42.959 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2025-01-17 22:20:42.959 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-01-17 22:20:42.959 [info] ExtensionService#_doActivateExtension innerlee.nvidia-smi, startup: false, activationEvent: '*'
+2025-01-17 22:20:42.959 [info] ExtensionService#_doActivateExtension mutantdino.resourcemonitor, startup: false, activationEvent: '*'
+2025-01-17 22:20:43.284 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-01-17 22:20:43.284 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-01-17 22:20:43.474 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:.conda'
+2025-01-17 22:20:43.524 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-01-17 22:20:43.524 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-01-17 22:20:43.525 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-slideshow, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-01-17 22:20:43.631 [warning] Using default string since no string found in i18n bundle that has the key: Source map support is enabled in the Python Extension, this will adversely impact performance of the extension.
+2025-01-17 22:20:43.631 [warning] Using default string since no string found in i18n bundle that has the key: Disable Source Map Support
+2025-01-17 22:20:43.631 [warning] Using default string since no string found in i18n bundle that has the key: Enabling source map support in the Python Extension will adversely impact performance of the extension.
+2025-01-17 22:20:43.631 [warning] Using default string since no string found in i18n bundle that has the key: Enable and reload Window.
+2025-01-17 22:20:43.631 [warning] Using default string since no string found in i18n bundle that has the key: ▶ Launch TensorBoard Session
+2025-01-17 22:20:43.631 [warning] Using default string since no string found in i18n bundle that has the key: Launch TensorBoard session
+2025-01-17 22:20:43.766 [warning] Using default string since no string found in i18n bundle that has the key: The security certificate used by server was not issued by a trusted certificate authority.
+This may indicate an attempt to steal your information.
+2025-01-17 22:20:43.766 [warning] Using default string since no string found in i18n bundle that has the key: The security certificate used by server has expired.
+This may indicate an attempt to steal your information.
+2025-01-17 22:20:43.766 [warning] Using default string since no string found in i18n bundle that has the key: If you have not installed xelatex (TeX), you will need to do so before you can export to PDF. For further instructions, please see https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex. 
+To avoid installing xelatex (TeX), you might want to try exporting to HTML and using your browser's "Print to PDF" feature.
+2025-01-17 22:20:43.901 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2025-01-17 22:20:43.951 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2025-01-17 22:20:44.091 [info] Eager extensions activated
+2025-01-17 22:20:44.091 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-17 22:20:44.091 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-17 22:20:44.091 [info] ExtensionService#_doActivateExtension hoovercj.vscode-power-mode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-17 22:20:44.091 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-01-17 22:20:44.092 [info] ExtensionService#_doActivateExtension RSIP-Vision.nvidia-smi-plus, startup: false, activationEvent: 'onStartupFinished'
+2025-01-17 22:20:44.092 [info] ExtensionService#_doActivateExtension YuTengjing.vscode-colorize-plus, startup: false, activationEvent: 'onStartupFinished'
+2025-01-17 22:20:44.971 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2025-01-17 22:20:45.556 [error] Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+	at ChildProcess.<anonymous> (/home/iujeong/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-17 22:21:02.211 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-01-17 22:21:07.572 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-01-17 22:21:07.573 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-01-17 22:21:07.573 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-01-17 22:21:07.573 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-17 22:22:11.849 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-01-17 22:24:02.485 [warning] vscode.json-language-features - Code actions of kind 'quickfix' requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-01-17 22:24:09.751 [warning] vscode.json-language-features - Code actions of kind 'quickfix' requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-01-17 22:24:12.260 [warning] vscode.json-language-features - Code actions of kind 'quickfix' requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-01-17 22:34:08.462 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-01-17 22:38:27.378 [error] Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+	at ChildProcess.<anonymous> (/home/iujeong/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-17 22:55:16.633 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-01-17 23:03:02.947 [error] Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+	at ChildProcess.<anonymous> (/home/iujeong/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-17 23:03:22.410 [error] Error: 커널이 종료되었습니다. 오류: /usr/bin/python3: No module named ipykernel_launcher... 자세한 내용은 Jupyter [로그](command:jupyter.viewOutput)를 참조하세요.
+	at ChildProcess.<anonymous> (/home/iujeong/.vscode-server/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64/dist/extension.node.js:299:44847)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-17 23:03:36.160 [info] Extension host terminating: received terminate message from renderer
+2025-01-17 23:03:36.160 [info] Lock '/home/iujeong/.vscode-server/data/User/workspaceStorage/d93eea3a3c3f435b3cabd9cc82da6704/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-01-17 23:03:36.190 [info] Extension host with pid 31786 exiting with code 0

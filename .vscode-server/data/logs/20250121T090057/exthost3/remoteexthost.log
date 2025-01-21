@@ -1,0 +1,103 @@
+2025-01-21 09:14:46.368 [info] Extension host with pid 81458 started
+2025-01-21 09:14:46.380 [info] Lock '/home/iujeong/.vscode-server/data/User/workspaceStorage/d93eea3a3c3f435b3cabd9cc82da6704/vscode.lock': Lock acquired.
+2025-01-21 09:14:46.571 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-01-21 09:14:46.571 [info] ExtensionService#_doActivateExtension innerlee.nvidia-smi, startup: false, activationEvent: '*'
+2025-01-21 09:14:46.571 [info] ExtensionService#_doActivateExtension mutantdino.resourcemonitor, startup: false, activationEvent: '*'
+2025-01-21 09:14:47.106 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-01-21 09:14:47.106 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-01-21 09:14:47.316 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:.conda'
+2025-01-21 09:14:47.432 [warning] Using default string since no string found in i18n bundle that has the key: Source map support is enabled in the Python Extension, this will adversely impact performance of the extension.
+2025-01-21 09:14:47.432 [warning] Using default string since no string found in i18n bundle that has the key: Disable Source Map Support
+2025-01-21 09:14:47.432 [warning] Using default string since no string found in i18n bundle that has the key: Enabling source map support in the Python Extension will adversely impact performance of the extension.
+2025-01-21 09:14:47.432 [warning] Using default string since no string found in i18n bundle that has the key: Enable and reload Window.
+2025-01-21 09:14:47.435 [warning] Using default string since no string found in i18n bundle that has the key: ▶ Launch TensorBoard Session
+2025-01-21 09:14:47.435 [warning] Using default string since no string found in i18n bundle that has the key: Launch TensorBoard session
+2025-01-21 09:14:47.574 [info] Eager extensions activated
+2025-01-21 09:14:47.574 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 09:14:47.574 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 09:14:47.574 [info] ExtensionService#_doActivateExtension hoovercj.vscode-power-mode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 09:14:47.575 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 09:14:47.575 [info] ExtensionService#_doActivateExtension RSIP-Vision.nvidia-smi-plus, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 09:14:47.575 [info] ExtensionService#_doActivateExtension YuTengjing.vscode-colorize-plus, startup: false, activationEvent: 'onStartupFinished'
+2025-01-21 09:14:47.714 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2025-01-21 09:14:47.756 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2025-01-21 09:14:51.397 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-01-21 09:14:51.398 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2025-01-21 09:14:51.398 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-21 09:14:51.540 [warning] Using default string since no string found in i18n bundle that has the key: The security certificate used by server was not issued by a trusted certificate authority.
+This may indicate an attempt to steal your information.
+2025-01-21 09:14:51.540 [warning] Using default string since no string found in i18n bundle that has the key: The security certificate used by server has expired.
+This may indicate an attempt to steal your information.
+2025-01-21 09:14:51.541 [warning] Using default string since no string found in i18n bundle that has the key: If you have not installed xelatex (TeX), you will need to do so before you can export to PDF. For further instructions, please see https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex. 
+To avoid installing xelatex (TeX), you might want to try exporting to HTML and using your browser's "Print to PDF" feature.
+2025-01-21 09:14:51.663 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2025-01-21 09:15:53.433 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-01-21 09:15:58.574 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-01-21 09:15:58.574 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-01-21 09:15:58.574 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-01-21 09:24:18.679 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2025-01-21 09:24:18.714 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-01-21 09:24:18.714 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-slideshow, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-01-21 12:29:42.959 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-01-21 13:48:03.481 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2025-01-21 14:03:21.788 [error] Error: Invalid debug adapter
+    at vVt.p (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:748:95)
+    at vVt.$acceptDAExit (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:748:35)
+    at Odt.S (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3144:41680)
+    at Odt.Q (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3144:41458)
+    at Odt.M (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3144:40546)
+    at Odt.L (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3144:39783)
+    at oee.value (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3144:38444)
+    at x.B (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:30:748)
+    at x.fire (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:30:967)
+    at K6.fire (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:762:10348)
+2025-01-21 14:06:57.109 [error] Error: Invalid debug adapter
+    at vVt.p (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:748:95)
+    at vVt.$acceptDAExit (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:748:35)
+    at Odt.S (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3144:41680)
+    at Odt.Q (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3144:41458)
+    at Odt.M (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3144:40546)
+    at Odt.L (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3144:39783)
+    at oee.value (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3144:38444)
+    at x.B (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:30:748)
+    at x.fire (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:30:967)
+    at K6.fire (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:762:10348)
+2025-01-21 14:12:41.319 [error] Error: Invalid debug adapter
+    at vVt.p (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:748:95)
+    at vVt.$acceptDAExit (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:748:35)
+    at Odt.S (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3144:41680)
+    at Odt.Q (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3144:41458)
+    at Odt.M (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3144:40546)
+    at Odt.L (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3144:39783)
+    at oee.value (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3144:38444)
+    at x.B (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:30:748)
+    at x.fire (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:30:967)
+    at K6.fire (vscode-file://vscode-app/Applications/Visual%20Studio%20Code%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.57.11.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:762:10348)
+2025-01-21 16:11:53.775 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-01-21 16:12:11.686 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-01-21 16:55:49.241 [info] Extension host terminating: renderer disconnected for too long (2)
+2025-01-21 16:55:49.243 [info] Lock '/home/iujeong/.vscode-server/data/User/workspaceStorage/d93eea3a3c3f435b3cabd9cc82da6704/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-01-21 16:55:49.258 [error] An error occurred when disposing the subscriptions for extension 'ms-python.python':
+2025-01-21 16:55:49.258 [error] Error: Connection is disposed.
+	at de (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2037454)
+	at Object.sendNotification (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:2038297)
+	at m.dispose (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:784764)
+	at /home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:780151
+	at Array.forEach (<anonymous>)
+	at m.dispose (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2/out/client/extension.js:2:780137)
+	at ai (file:///home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/server/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+	at file:///home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/server/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+	at file:///home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/server/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+	at Object.dispose (file:///home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/server/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+	at zz.eb (file:///home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/server/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+	at file:///home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/server/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+	at Array.map (<anonymous>)
+	at zz.$ (file:///home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/server/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+	at zz.terminate (file:///home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/server/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+	at Q3.terminate (file:///home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/server/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+	at Zi (file:///home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/server/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+	at C5.a (file:///home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/server/out/vs/workbench/api/node/extensionHostProcess.js:175:11993)
+	at C5.h (file:///home/iujeong/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/server/out/vs/workbench/api/node/extensionHostProcess.js:31:75719)
+	at listOnTimeout (node:internal/timers:581:17)
+	at process.processTimers (node:internal/timers:519:7)
+2025-01-21 16:55:49.274 [info] Extension host with pid 81458 exiting with code 0
