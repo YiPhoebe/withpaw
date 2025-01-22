@@ -36,10 +36,8 @@ def login():  # 사용자 로그인 함수
     conn.close()  # 데이터베이스 연결 종료
 
     if user:
-        print(f"로그인 성공! 환영합니다, {user[3]}님!")  # 성공 메시지
         return user
     else:
-        print("로그인 실패! 아이디와 비밀번호를 확인해주세요.")  # 실패 메시지
         return None
 
 def find_username():  # 아이디 찾기 함수
